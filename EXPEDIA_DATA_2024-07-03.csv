@@ -1,0 +1,726 @@
+Airline,Travel Date,Return Date,Departure,Arrival,Price,Total Travel Time,Stops,Layover City,Layover Time,Collection Date
+United,2024-07-04,2024-07-12,7:58pm,4:05am,"$1,297",19 hours 7 minutes,One,San Francisco,1 hour 58 minutes,2024-07-03
+United,2024-07-04,2024-07-12,7:58pm,6:45pm,"$1,348",33 hours 47 minutes,One,San Francisco,16 hours 43 minutes,2024-07-03
+United,2024-07-04,2024-07-12,6:00am,4:05am,"$1,308",33 hours 5 minutes,One,San Francisco,16 hours 1 minute,2024-07-03
+United,2024-07-04,2024-07-12,6:00am,6:45pm,"$1,630",23 hours 45 minutes,One,San Francisco,6 hours 46 minutes,2024-07-03
+multipleAirlines,2024-07-04,2024-07-12,7:45pm,4:10am,"$2,167",19 hours 25 minutes,One,Seattle,3 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-04,2024-07-12,5:45pm,4:10am,"$2,167",21 hours 25 minutes,One,Seattle,5 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-04,2024-07-12,3:59pm,4:10am,"$2,167",23 hours 11 minutes,One,Seattle,6 hours 59 minutes,2024-07-03
+multipleAirlines,2024-07-04,2024-07-12,7:58pm,4:50am,"$2,422",19 hours 52 minutes,One,San Francisco,3 hours 13 minutes,2024-07-03
+Turkish Airlines,2024-07-04,2024-07-12,8:40pm,5:55pm,"$2,411",32 hours 15 minutes,One,Istanbul,8 hours 55 minutes,2024-07-03
+Cathay Pacific,2024-07-04,2024-07-12,6:30pm,8:55am,"$2,074",25 hours 25 minutes,Two,"Los Angeles, Hong Kong","4 hours 31 minutes, 1 hour 20 minutes",2024-07-03
+Cathay Pacific,2024-07-04,2024-07-12,6:30pm,9:00am,"$2,074",25 hours 30 minutes,Two,"Los Angeles, Hong Kong","4 hours 31 minutes, 1 hour 15 minutes",2024-07-03
+Cathay Pacific,2024-07-04,2024-07-12,6:30pm,9:55am,"$2,074",26 hours 25 minutes,Two,"Los Angeles, Hong Kong","5 hours 31 minutes, 1 hour 15 minutes",2024-07-03
+Cathay Pacific,2024-07-04,2024-07-12,6:30pm,9:55am,"$2,074",26 hours 25 minutes,Two,"Los Angeles, Hong Kong","4 hours 31 minutes, 2 hours 15 minutes",2024-07-03
+Cathay Pacific,2024-07-04,2024-07-12,6:30pm,10:05am,"$2,074",26 hours 35 minutes,Two,"Los Angeles, Hong Kong","5 hours 31 minutes, 1 hour 25 minutes",2024-07-03
+Cathay Pacific,2024-07-04,2024-07-12,6:30pm,10:05am,"$2,074",26 hours 35 minutes,Two,"Los Angeles, Hong Kong","4 hours 31 minutes, 2 hours 25 minutes",2024-07-03
+Cathay Pacific,2024-07-04,2024-07-12,6:30pm,10:40am,"$2,074",27 hours 10 minutes,Two,"Los Angeles, Hong Kong","5 hours 31 minutes, 1 hour 50 minutes",2024-07-03
+Cathay Pacific,2024-07-04,2024-07-12,6:30pm,10:40am,"$2,074",27 hours 10 minutes,Two,"Los Angeles, Hong Kong","4 hours 31 minutes, 2 hours 50 minutes",2024-07-03
+Cathay Pacific,2024-07-04,2024-07-12,6:30pm,11:00am,"$2,074",27 hours 30 minutes,Two,"Los Angeles, Hong Kong","5 hours 31 minutes, 2 hours 15 minutes",2024-07-03
+Cathay Pacific,2024-07-04,2024-07-12,6:30pm,11:00am,"$2,074",27 hours 30 minutes,Two,"Los Angeles, Hong Kong","4 hours 31 minutes, 3 hours 15 minutes",2024-07-03
+Asiana Airlines,2024-07-04,2024-07-12,7:58pm,11:30am,"$2,073",26 hours 32 minutes,Two,"San Francisco, Seoul","1 hour 43 minutes, 6 hours 0 minutes",2024-07-03
+Japan Airlines,2024-07-04,2024-07-12,12:05pm,8:55pm,"$3,536",19 hours 50 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-04,2024-07-12,7:58pm,3:50pm,"$1,925",30 hours 52 minutes,Two,"San Francisco, Tokyo","3 hours 58 minutes, 8 hours 50 minutes",2024-07-03
+multipleAirlines,2024-07-04,2024-07-12,3:59pm,4:40am,"$2,086",23 hours 41 minutes,Two,"Seattle, San Francisco","1 hour 48 minutes, 2 hours 40 minutes",2024-07-03
+Cathay Pacific,2024-07-04,2024-07-12,6:30pm,11:50am,"$2,074",28 hours 20 minutes,Two,"Los Angeles, Hong Kong","4 hours 31 minutes, 4 hours 10 minutes",2024-07-03
+Cathay Pacific,2024-07-04,2024-07-12,6:30pm,11:50am,"$2,074",28 hours 20 minutes,Two,"Los Angeles, Hong Kong","5 hours 31 minutes, 3 hours 10 minutes",2024-07-03
+United,2024-07-05,2024-07-13,7:58pm,4:05am,"$1,348",19 hours 7 minutes,One,San Francisco,1 hour 58 minutes,2024-07-03
+United,2024-07-05,2024-07-13,6:00am,6:45pm,"$1,348",23 hours 45 minutes,One,San Francisco,6 hours 46 minutes,2024-07-03
+United,2024-07-05,2024-07-13,6:00am,4:05am,"$1,360",33 hours 5 minutes,One,San Francisco,16 hours 1 minute,2024-07-03
+multipleAirlines,2024-07-05,2024-07-13,7:45pm,5:10am,"$2,502",20 hours 25 minutes,One,Seattle,4 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-05,2024-07-13,7:58pm,5:15am,"$2,598",20 hours 17 minutes,One,San Francisco,3 hours 38 minutes,2024-07-03
+multipleAirlines,2024-07-05,2024-07-13,7:58pm,4:50am,"$2,548",19 hours 52 minutes,One,San Francisco,3 hours 13 minutes,2024-07-03
+multipleAirlines,2024-07-05,2024-07-13,5:45pm,5:10am,"$2,502",22 hours 25 minutes,One,Seattle,6 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-05,2024-07-13,6:00am,5:00pm,"$2,698",22 hours 0 minutes,One,San Francisco,5 hours 16 minutes,2024-07-03
+multipleAirlines,2024-07-05,2024-07-13,3:59pm,5:10am,"$2,502",24 hours 11 minutes,One,Seattle,7 hours 59 minutes,2024-07-03
+multipleAirlines,2024-07-05,2024-07-13,2:30pm,5:10am,"$2,502",25 hours 40 minutes,One,Seattle,9 hours 28 minutes,2024-07-03
+multipleAirlines,2024-07-05,2024-07-13,7:58pm,12:10pm,"$1,854",27 hours 12 minutes,Two,"San Francisco, Tokyo","3 hours 58 minutes, 5 hours 10 minutes",2024-07-03
+China Airlines,2024-07-05,2024-07-13,6:20am,9:20pm,"$2,593",26 hours 0 minutes,One,Los Angeles,9 hours 15 minutes,2024-07-03
+multipleAirlines,2024-07-05,2024-07-13,12:53pm,5:10am,"$2,502",27 hours 17 minutes,One,Seattle,11 hours 8 minutes,2024-07-03
+Turkish Airlines,2024-07-05,2024-07-13,8:40pm,5:55pm,"$2,421",32 hours 15 minutes,One,Istanbul,8 hours 55 minutes,2024-07-03
+United,2024-07-05,2024-07-13,7:58pm,6:45pm,"$2,288",33 hours 47 minutes,One,San Francisco,16 hours 43 minutes,2024-07-03
+multipleAirlines,2024-07-05,2024-07-13,9:45pm,9:55am,"$2,267",23 hours 10 minutes,Two,"Los Angeles, Hong Kong","2 hours 23 minutes, 1 hour 15 minutes",2024-07-03
+Cathay Pacific,2024-07-05,2024-07-13,9:45pm,9:55am,"$2,289",23 hours 10 minutes,Two,"Los Angeles, Hong Kong","2 hours 23 minutes, 1 hour 15 minutes",2024-07-03
+Japan Airlines,2024-07-05,2024-07-13,11:30am,8:50pm,"$3,365",20 hours 20 minutes,One,Tokyo,3 hours 40 minutes,2024-07-03
+Cathay Pacific,2024-07-05,2024-07-13,9:45pm,10:05am,"$2,289",23 hours 20 minutes,Two,"Los Angeles, Hong Kong","2 hours 23 minutes, 1 hour 25 minutes",2024-07-03
+multipleAirlines,2024-07-05,2024-07-13,3:59pm,5:10am,"$2,187",24 hours 11 minutes,Two,"Seattle, Los Angeles","1 hour 1 minutes, 2 hours 50 minutes",2024-07-03
+multipleAirlines,2024-07-05,2024-07-13,3:59pm,5:10am,"$2,187",24 hours 11 minutes,Two,"Seattle, Los Angeles","2 hours 1 minutes, 1 hour 50 minutes",2024-07-03
+multipleAirlines,2024-07-05,2024-07-13,3:59pm,4:40am,"$2,086",23 hours 41 minutes,Two,"Seattle, San Francisco","1 hour 48 minutes, 2 hours 40 minutes",2024-07-03
+Cathay Pacific,2024-07-05,2024-07-13,8:45pm,9:55am,"$2,289",24 hours 10 minutes,Two,"Los Angeles, Hong Kong","3 hours 25 minutes, 1 hour 15 minutes",2024-07-03
+Cathay Pacific,2024-07-05,2024-07-13,9:45pm,10:40am,"$2,289",23 hours 55 minutes,Two,"Los Angeles, Hong Kong","2 hours 23 minutes, 1 hour 50 minutes",2024-07-03
+Cathay Pacific,2024-07-05,2024-07-13,8:45pm,10:05am,"$2,289",24 hours 20 minutes,Two,"Los Angeles, Hong Kong","3 hours 25 minutes, 1 hour 25 minutes",2024-07-03
+United,2024-07-06,2024-07-14,7:58pm,4:05am,"$1,405",19 hours 7 minutes,One,San Francisco,1 hour 58 minutes,2024-07-03
+United,2024-07-06,2024-07-14,6:00am,6:45pm,"$1,405",23 hours 45 minutes,One,San Francisco,6 hours 46 minutes,2024-07-03
+United,2024-07-06,2024-07-14,8:25am,6:45pm,"$1,405",21 hours 20 minutes,Two,"Houston, San Francisco","0 hours 36 minutes, 2 hours 20 minutes",2024-07-03
+United,2024-07-06,2024-07-14,7:15am,6:45pm,"$1,405",22 hours 30 minutes,Two,"Houston, San Francisco","1 hour 49 minutes, 2 hours 20 minutes",2024-07-03
+United,2024-07-06,2024-07-14,5:15am,6:45pm,"$1,405",24 hours 30 minutes,Two,"Houston, San Francisco","3 hours 44 minutes, 2 hours 20 minutes",2024-07-03
+United,2024-07-06,2024-07-14,2:22pm,4:05am,"$1,405",24 hours 43 minutes,Two,"Houston, San Francisco","1 hour 10 minutes, 4 hours 53 minutes",2024-07-03
+United,2024-07-06,2024-07-14,2:22pm,4:05am,"$1,405",24 hours 43 minutes,Two,"Houston, San Francisco","2 hours 30 minutes, 3 hours 33 minutes",2024-07-03
+United,2024-07-06,2024-07-14,6:00am,4:05am,"$1,551",33 hours 5 minutes,One,San Francisco,16 hours 1 minute,2024-07-03
+United,2024-07-06,2024-07-14,7:58pm,6:45pm,"$2,076",33 hours 47 minutes,One,San Francisco,16 hours 43 minutes,2024-07-03
+multipleAirlines,2024-07-06,2024-07-14,5:45pm,4:10am,"$2,418",21 hours 25 minutes,One,Seattle,5 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-06,2024-07-14,6:00am,5:00pm,"$2,693",22 hours 0 minutes,One,San Francisco,5 hours 16 minutes,2024-07-03
+multipleAirlines,2024-07-06,2024-07-14,5:45pm,5:10am,"$2,418",22 hours 25 minutes,One,Seattle,6 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-06,2024-07-14,2:30pm,5:10am,"$2,418",25 hours 40 minutes,One,Seattle,9 hours 28 minutes,2024-07-03
+multipleAirlines,2024-07-06,2024-07-14,2:30pm,4:10am,"$2,418",24 hours 40 minutes,One,Seattle,8 hours 28 minutes,2024-07-03
+multipleAirlines,2024-07-06,2024-07-14,3:59pm,5:10am,"$2,418",24 hours 11 minutes,One,Seattle,7 hours 59 minutes,2024-07-03
+multipleAirlines,2024-07-06,2024-07-14,3:59pm,4:10am,"$2,418",23 hours 11 minutes,One,Seattle,6 hours 59 minutes,2024-07-03
+multipleAirlines,2024-07-06,2024-07-14,12:53pm,5:10am,"$2,418",27 hours 17 minutes,One,Seattle,11 hours 8 minutes,2024-07-03
+multipleAirlines,2024-07-06,2024-07-14,12:53pm,4:10am,"$2,418",26 hours 17 minutes,One,Seattle,10 hours 8 minutes,2024-07-03
+Turkish Airlines,2024-07-06,2024-07-14,8:40pm,5:55pm,"$2,421",32 hours 15 minutes,One,Istanbul,8 hours 55 minutes,2024-07-03
+multipleAirlines,2024-07-06,2024-07-14,8:45pm,8:55am,"$2,110",23 hours 10 minutes,Two,"Los Angeles, Hong Kong","2 hours 25 minutes, 1 hour 20 minutes",2024-07-03
+multipleAirlines,2024-07-06,2024-07-14,8:45pm,8:55am,"$2,105",23 hours 10 minutes,Two,"Vancouver, Hong Kong","2 hours 25 minutes, 1 hour 30 minutes",2024-07-03
+Cathay Pacific,2024-07-06,2024-07-14,8:45pm,8:55am,"$2,131",23 hours 10 minutes,Two,"Los Angeles, Hong Kong","2 hours 25 minutes, 1 hour 20 minutes",2024-07-03
+Cathay Pacific,2024-07-06,2024-07-14,9:45pm,9:55am,"$2,131",23 hours 10 minutes,Two,"Los Angeles, Hong Kong","2 hours 23 minutes, 1 hour 15 minutes",2024-07-03
+Cathay Pacific,2024-07-06,2024-07-14,8:45pm,9:00am,"$2,131",23 hours 15 minutes,Two,"Los Angeles, Hong Kong","2 hours 25 minutes, 1 hour 15 minutes",2024-07-03
+Cathay Pacific,2024-07-06,2024-07-14,9:45pm,10:05am,"$2,131",23 hours 20 minutes,Two,"Los Angeles, Hong Kong","2 hours 23 minutes, 1 hour 25 minutes",2024-07-03
+United,2024-07-07,2024-07-15,8:04pm,4:05am,"$1,361",19 hours 1 minute,One,San Francisco,1 hour 52 minutes,2024-07-03
+United,2024-07-07,2024-07-15,6:00am,6:45pm,"$1,361",23 hours 45 minutes,One,San Francisco,6 hours 46 minutes,2024-07-03
+United,2024-07-07,2024-07-15,6:00am,4:05am,"$1,373",33 hours 5 minutes,One,San Francisco,16 hours 1 minute,2024-07-03
+United,2024-07-07,2024-07-15,5:15am,6:45pm,"$1,418",24 hours 30 minutes,Two,"Houston, San Francisco","1 hour 14 minutes, 4 hours 43 minutes",2024-07-03
+multipleAirlines,2024-07-07,2024-07-15,8:25am,6:25pm,"$1,607",21 hours 0 minutes,Two,"Houston, Tokyo","1 hour 6 minutes, 1 hour 45 minutes",2024-07-03
+multipleAirlines,2024-07-07,2024-07-15,7:15am,6:25pm,"$1,607",22 hours 10 minutes,Two,"Houston, Tokyo","2 hours 19 minutes, 1 hour 45 minutes",2024-07-03
+multipleAirlines,2024-07-07,2024-07-15,5:15am,6:25pm,"$1,607",24 hours 10 minutes,Two,"Houston, Tokyo","4 hours 14 minutes, 1 hour 45 minutes",2024-07-03
+Japan Airlines,2024-07-07,2024-07-15,12:00pm,8:55pm,"$2,227",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+Japan Airlines,2024-07-07,2024-07-15,12:00pm,2:30pm,"$1,961",37 hours 30 minutes,One,Tokyo,20 hours 45 minutes,2024-07-03
+Japan Airlines,2024-07-07,2024-07-15,12:25pm,8:50pm,"$2,480",19 hours 25 minutes,One,Tokyo,2 hours 25 minutes,2024-07-03
+Delta,2024-07-07,2024-07-15,5:25am,3:30pm,"$1,922",21 hours 5 minutes,Two,"Salt Lake City, Seattle","1 hour 31 minutes, 1 hour 58 minutes",2024-07-03
+United,2024-07-07,2024-07-15,8:04pm,6:45pm,"$1,974",33 hours 41 minutes,One,San Francisco,16 hours 37 minutes,2024-07-03
+multipleAirlines,2024-07-07,2024-07-15,5:45pm,5:10am,"$2,298",22 hours 25 minutes,One,Seattle,6 hours 10 minutes,2024-07-03
+Japan Airlines,2024-07-07,2024-07-15,11:30am,8:50pm,"$2,724",20 hours 20 minutes,One,Tokyo,3 hours 40 minutes,2024-07-03
+Japan Airlines,2024-07-07,2024-07-15,12:25pm,11:35am,"$2,348",34 hours 10 minutes,One,Tokyo,17 hours 0 minutes,2024-07-03
+Turkish Airlines,2024-07-07,2024-07-15,8:40pm,5:55pm,"$2,301",32 hours 15 minutes,One,Istanbul,8 hours 55 minutes,2024-07-03
+Korean Air,2024-07-07,2024-07-15,10:30am,2:10pm,"$2,392",38 hours 40 minutes,One,Seoul,21 hours 20 minutes,2024-07-03
+Japan Airlines,2024-07-07,2024-07-15,11:30am,11:35am,"$2,574",35 hours 5 minutes,One,Tokyo,18 hours 15 minutes,2024-07-03
+multipleAirlines,2024-07-07,2024-07-15,8:04pm,12:10pm,"$1,890",27 hours 6 minutes,Two,"San Francisco, Tokyo","3 hours 52 minutes, 5 hours 10 minutes",2024-07-03
+multipleAirlines,2024-07-07,2024-07-15,12:10pm,10:30pm,"$3,173",21 hours 20 minutes,One,Seoul,4 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-07,2024-07-15,8:19am,8:55pm,"$2,143",23 hours 36 minutes,Two,"Vancouver, Tokyo","3 hours 20 minutes, 1 hour 40 minutes",2024-07-03
+Japan Airlines,2024-07-07,2024-07-15,12:25pm,8:50pm,"$3,509",19 hours 25 minutes,One,Tokyo,2 hours 25 minutes,2024-07-03
+Japan Airlines,2024-07-07,2024-07-15,12:00pm,8:55pm,"$3,336",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-07,2024-07-15,7:11am,8:55pm,"$2,152",24 hours 44 minutes,Two,"San Diego, Tokyo","5 hours 20 minutes, 1 hour 25 minutes",2024-07-03
+Korean Air,2024-07-07,2024-07-15,10:30am,2:10pm,"$2,795",38 hours 40 minutes,One,Seoul,21 hours 20 minutes,2024-07-03
+United,2024-07-08,2024-07-16,7:58pm,4:05am,"$1,321",19 hours 7 minutes,One,San Francisco,1 hour 58 minutes,2024-07-03
+United,2024-07-08,2024-07-16,6:00am,6:45pm,"$1,321",23 hours 45 minutes,One,San Francisco,6 hours 46 minutes,2024-07-03
+United,2024-07-08,2024-07-16,6:00am,4:05am,"$1,342",33 hours 5 minutes,One,San Francisco,16 hours 1 minute,2024-07-03
+United,2024-07-08,2024-07-16,2:22pm,4:05am,"$1,365",24 hours 43 minutes,Two,"Houston, San Francisco","1 hour 10 minutes, 4 hours 53 minutes",2024-07-03
+United,2024-07-08,2024-07-16,2:22pm,4:05am,"$1,365",24 hours 43 minutes,Two,"Houston, San Francisco","2 hours 30 minutes, 3 hours 33 minutes",2024-07-03
+United,2024-07-08,2024-07-16,2:22pm,4:05am,"$1,365",24 hours 43 minutes,Two,"Houston, San Francisco","4 hours 19 minutes, 1 hour 45 minutes",2024-07-03
+Japan Airlines,2024-07-08,2024-07-16,12:00pm,8:55pm,"$2,145",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+Korean Air,2024-07-08,2024-07-16,10:30am,12:10pm,"$1,899",36 hours 40 minutes,One,Seoul,19 hours 15 minutes,2024-07-03
+Japan Airlines,2024-07-08,2024-07-16,12:00pm,2:30pm,"$1,953",37 hours 30 minutes,One,Tokyo,20 hours 45 minutes,2024-07-03
+Delta,2024-07-08,2024-07-16,5:25am,3:20pm,"$1,814",20 hours 55 minutes,Two,"Salt Lake City, Seattle","1 hour 26 minutes, 2 hours 0 minutes",2024-07-03
+Delta,2024-07-08,2024-07-16,3:09pm,3:15pm,"$1,833",35 hours 6 minutes,One,Seattle,18 hours 20 minutes,2024-07-03
+Japan Airlines,2024-07-08,2024-07-16,12:25pm,8:50pm,"$2,593",19 hours 25 minutes,One,Tokyo,2 hours 25 minutes,2024-07-03
+United,2024-07-08,2024-07-16,7:58pm,6:45pm,"$1,937",33 hours 47 minutes,One,San Francisco,16 hours 43 minutes,2024-07-03
+Japan Airlines,2024-07-08,2024-07-16,12:00pm,8:55pm,"$2,512",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+Japan Airlines,2024-07-08,2024-07-16,12:25pm,11:35am,"$2,143",34 hours 10 minutes,One,Tokyo,17 hours 0 minutes,2024-07-03
+multipleAirlines,2024-07-08,2024-07-16,7:45pm,5:10am,"$2,475",20 hours 25 minutes,One,Seattle,4 hours 10 minutes,2024-07-03
+Japan Airlines,2024-07-08,2024-07-16,12:25pm,8:50pm,"$2,800",19 hours 25 minutes,One,Tokyo,2 hours 25 minutes,2024-07-03
+Japan Airlines,2024-07-08,2024-07-16,12:00pm,2:30pm,"$2,160",37 hours 30 minutes,One,Tokyo,20 hours 45 minutes,2024-07-03
+Delta,2024-07-08,2024-07-16,5:50am,5:50pm,"$1,901",23 hours 0 minutes,Two,"Atlanta, Seoul","0 hours 44 minutes, 1 hour 45 minutes",2024-07-03
+multipleAirlines,2024-07-08,2024-07-16,5:45pm,5:10am,"$2,475",22 hours 25 minutes,One,Seattle,6 hours 10 minutes,2024-07-03
+Turkish Airlines,2024-07-08,2024-07-16,8:40pm,5:55pm,"$2,297",32 hours 15 minutes,One,Istanbul,8 hours 55 minutes,2024-07-03
+multipleAirlines,2024-07-08,2024-07-16,2:30pm,5:10am,"$2,475",25 hours 40 minutes,One,Seattle,9 hours 28 minutes,2024-07-03
+multipleAirlines,2024-07-08,2024-07-16,3:59pm,5:10am,"$2,475",24 hours 11 minutes,One,Seattle,7 hours 59 minutes,2024-07-03
+multipleAirlines,2024-07-08,2024-07-16,7:58pm,12:10pm,"$1,881",27 hours 12 minutes,Two,"San Francisco, Tokyo","3 hours 58 minutes, 5 hours 10 minutes",2024-07-03
+Korean Air,2024-07-08,2024-07-16,7:00am,5:50pm,"$2,393",21 hours 50 minutes,Two,"Minneapolis, Seoul","2 hours 5 minutes, 0 hours 50 minutes",2024-07-03
+United,2024-07-09,2024-07-17,7:58pm,4:05am,"$1,336",19 hours 7 minutes,One,San Francisco,1 hour 58 minutes,2024-07-03
+United,2024-07-09,2024-07-17,6:00am,6:45pm,"$1,336",23 hours 45 minutes,One,San Francisco,6 hours 46 minutes,2024-07-03
+United,2024-07-09,2024-07-17,6:00am,4:05am,"$1,347",33 hours 5 minutes,One,San Francisco,16 hours 1 minute,2024-07-03
+Delta,2024-07-09,2024-07-17,7:54am,3:15pm,"$1,899",18 hours 21 minutes,One,Seattle,1 hour 33 minutes,2024-07-03
+Japan Airlines,2024-07-09,2024-07-17,12:00pm,8:55pm,"$2,162",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+Japan Airlines,2024-07-09,2024-07-17,12:25pm,8:50pm,"$2,310",19 hours 25 minutes,One,Tokyo,2 hours 25 minutes,2024-07-03
+Delta,2024-07-09,2024-07-17,3:09pm,3:20pm,"$1,918",35 hours 11 minutes,One,Seattle,18 hours 25 minutes,2024-07-03
+Japan Airlines,2024-07-09,2024-07-17,12:00pm,2:30pm,"$1,970",37 hours 30 minutes,One,Tokyo,20 hours 45 minutes,2024-07-03
+multipleAirlines,2024-07-09,2024-07-17,7:45pm,4:10am,"$2,306",19 hours 25 minutes,One,Seattle,3 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-09,2024-07-17,7:45pm,5:10am,"$2,306",20 hours 25 minutes,One,Seattle,4 hours 10 minutes,2024-07-03
+Japan Airlines,2024-07-09,2024-07-17,12:25pm,8:50pm,"$2,500",19 hours 25 minutes,One,Tokyo,2 hours 25 minutes,2024-07-03
+multipleAirlines,2024-07-09,2024-07-17,5:45pm,4:10am,"$2,306",21 hours 25 minutes,One,Seattle,5 hours 10 minutes,2024-07-03
+Japan Airlines,2024-07-09,2024-07-17,12:00pm,8:55pm,"$2,512",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-09,2024-07-17,7:58pm,5:15am,"$2,461",20 hours 17 minutes,One,San Francisco,3 hours 38 minutes,2024-07-03
+multipleAirlines,2024-07-09,2024-07-17,7:58pm,4:50am,"$2,461",19 hours 52 minutes,One,San Francisco,3 hours 13 minutes,2024-07-03
+United,2024-07-09,2024-07-17,7:58pm,6:45pm,"$2,026",33 hours 47 minutes,One,San Francisco,16 hours 43 minutes,2024-07-03
+multipleAirlines,2024-07-09,2024-07-17,5:45pm,5:10am,"$2,306",22 hours 25 minutes,One,Seattle,6 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-09,2024-07-17,6:00am,5:00pm,"$2,561",22 hours 0 minutes,One,San Francisco,5 hours 16 minutes,2024-07-03
+multipleAirlines,2024-07-09,2024-07-17,3:59pm,5:10am,"$2,306",24 hours 11 minutes,One,Seattle,7 hours 59 minutes,2024-07-03
+multipleAirlines,2024-07-09,2024-07-17,2:30pm,5:10am,"$2,347",25 hours 40 minutes,One,Seattle,9 hours 28 minutes,2024-07-03
+multipleAirlines,2024-07-09,2024-07-17,2:30pm,4:10am,"$2,306",24 hours 40 minutes,One,Seattle,8 hours 28 minutes,2024-07-03
+multipleAirlines,2024-07-09,2024-07-17,3:59pm,4:10am,"$2,306",23 hours 11 minutes,One,Seattle,6 hours 59 minutes,2024-07-03
+Japan Airlines,2024-07-09,2024-07-17,12:00pm,2:30pm,"$2,160",37 hours 30 minutes,One,Tokyo,20 hours 45 minutes,2024-07-03
+multipleAirlines,2024-07-09,2024-07-17,10:10am,8:55pm,"$2,087",21 hours 45 minutes,Two,"Los Angeles, Tokyo","2 hours 14 minutes, 1 hour 30 minutes",2024-07-03
+multipleAirlines,2024-07-09,2024-07-17,12:53pm,4:10am,"$2,347",26 hours 17 minutes,One,Seattle,10 hours 8 minutes,2024-07-03
+United,2024-07-10,2024-07-18,7:58pm,4:05am,"$1,368",19 hours 7 minutes,One,San Francisco,1 hour 58 minutes,2024-07-03
+United,2024-07-10,2024-07-18,6:00am,6:45pm,"$1,368",23 hours 45 minutes,One,San Francisco,6 hours 46 minutes,2024-07-03
+Delta,2024-07-10,2024-07-18,7:54am,3:20pm,"$1,903",18 hours 26 minutes,One,Seattle,1 hour 38 minutes,2024-07-03
+United,2024-07-10,2024-07-18,6:00am,4:05am,"$1,511",33 hours 5 minutes,One,San Francisco,16 hours 1 minute,2024-07-03
+Japan Airlines,2024-07-10,2024-07-18,12:00pm,8:55pm,"$2,223",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+Japan Airlines,2024-07-10,2024-07-18,12:25pm,8:50pm,"$2,331",19 hours 25 minutes,One,Tokyo,2 hours 25 minutes,2024-07-03
+Delta,2024-07-10,2024-07-18,3:09pm,3:30pm,"$1,921",35 hours 21 minutes,One,Seattle,18 hours 35 minutes,2024-07-03
+multipleAirlines,2024-07-10,2024-07-18,7:45pm,5:10am,"$2,371",20 hours 25 minutes,One,Seattle,4 hours 10 minutes,2024-07-03
+Japan Airlines,2024-07-10,2024-07-18,12:25pm,8:50pm,"$2,500",19 hours 25 minutes,One,Tokyo,2 hours 25 minutes,2024-07-03
+Japan Airlines,2024-07-10,2024-07-18,12:00pm,8:55pm,"$2,502",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+United,2024-07-10,2024-07-18,7:58pm,6:45pm,"$2,026",33 hours 47 minutes,One,San Francisco,16 hours 43 minutes,2024-07-03
+multipleAirlines,2024-07-10,2024-07-18,7:58pm,5:15am,"$2,511",20 hours 17 minutes,One,San Francisco,3 hours 38 minutes,2024-07-03
+multipleAirlines,2024-07-10,2024-07-18,7:58pm,4:50am,"$2,511",19 hours 52 minutes,One,San Francisco,3 hours 13 minutes,2024-07-03
+Korean Air,2024-07-10,2024-07-18,7:00am,5:50pm,"$1,992",21 hours 50 minutes,Two,"Minneapolis, Seoul","2 hours 5 minutes, 0 hours 50 minutes",2024-07-03
+multipleAirlines,2024-07-10,2024-07-18,5:45pm,5:10am,"$2,371",22 hours 25 minutes,One,Seattle,6 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-10,2024-07-18,6:00am,5:00pm,"$2,511",22 hours 0 minutes,One,San Francisco,5 hours 16 minutes,2024-07-03
+multipleAirlines,2024-07-10,2024-07-18,3:59pm,5:10am,"$2,371",24 hours 11 minutes,One,Seattle,7 hours 59 minutes,2024-07-03
+multipleAirlines,2024-07-10,2024-07-18,2:30pm,5:10am,"$2,371",25 hours 40 minutes,One,Seattle,9 hours 28 minutes,2024-07-03
+Korean Air,2024-07-10,2024-07-18,10:30am,12:10pm,"$2,318",36 hours 40 minutes,One,Seoul,19 hours 15 minutes,2024-07-03
+Asiana Airlines,2024-07-10,2024-07-18,7:58pm,11:30am,"$1,782",26 hours 32 minutes,Two,"San Francisco, Seoul","1 hour 43 minutes, 6 hours 0 minutes",2024-07-03
+Japan Airlines,2024-07-10,2024-07-18,11:30am,8:50pm,"$2,976",20 hours 20 minutes,One,Tokyo,3 hours 40 minutes,2024-07-03
+Korean Air,2024-07-10,2024-07-18,12:10pm,9:25am,"$2,476",32 hours 15 minutes,One,Seoul,15 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-10,2024-07-18,11:13am,8:55pm,"$2,258",20 hours 42 minutes,Two,"San Francisco, Tokyo","1 hour 4 minutes, 1 hour 40 minutes",2024-07-03
+Japan Airlines,2024-07-10,2024-07-18,11:13am,8:55pm,"$2,258",20 hours 42 minutes,Two,"San Francisco, Tokyo","1 hour 4 minutes, 1 hour 40 minutes",2024-07-03
+Turkish Airlines,2024-07-10,2024-07-18,8:40pm,5:55pm,"$2,385",32 hours 15 minutes,One,Istanbul,8 hours 55 minutes,2024-07-03
+United,2024-07-11,2024-07-19,7:58pm,4:05am,"$1,716",19 hours 7 minutes,One,San Francisco,1 hour 58 minutes,2024-07-03
+United,2024-07-11,2024-07-19,6:00am,6:45pm,"$1,716",23 hours 45 minutes,One,San Francisco,6 hours 46 minutes,2024-07-03
+Delta,2024-07-11,2024-07-19,7:54am,3:30pm,"$2,138",18 hours 36 minutes,One,Seattle,1 hour 48 minutes,2024-07-03
+Delta,2024-07-11,2024-07-19,5:25am,3:30pm,"$1,943",21 hours 5 minutes,Two,"Salt Lake City, Seattle","1 hour 26 minutes, 2 hours 10 minutes",2024-07-03
+Korean Air,2024-07-11,2024-07-19,10:30am,12:10pm,"$2,027",36 hours 40 minutes,One,Seoul,19 hours 15 minutes,2024-07-03
+Delta,2024-07-11,2024-07-19,7:00am,5:50pm,"$2,030",21 hours 50 minutes,Two,"Minneapolis, Seoul","2 hours 5 minutes, 0 hours 50 minutes",2024-07-03
+multipleAirlines,2024-07-11,2024-07-19,7:58pm,5:15am,"$2,351",20 hours 17 minutes,One,San Francisco,3 hours 38 minutes,2024-07-03
+multipleAirlines,2024-07-11,2024-07-19,7:58pm,4:50am,"$2,351",19 hours 52 minutes,One,San Francisco,3 hours 13 minutes,2024-07-03
+Korean Air,2024-07-11,2024-07-19,7:00am,5:50pm,"$2,032",21 hours 50 minutes,Two,"Minneapolis, Seoul","2 hours 5 minutes, 0 hours 50 minutes",2024-07-03
+United,2024-07-11,2024-07-19,6:00am,4:05am,"$2,066",33 hours 5 minutes,One,San Francisco,16 hours 1 minute,2024-07-03
+multipleAirlines,2024-07-11,2024-07-19,6:00am,5:00pm,"$2,684",22 hours 0 minutes,One,San Francisco,5 hours 16 minutes,2024-07-03
+Japan Airlines,2024-07-11,2024-07-19,12:25pm,8:50pm,"$2,800",19 hours 25 minutes,One,Tokyo,2 hours 25 minutes,2024-07-03
+Japan Airlines,2024-07-11,2024-07-19,12:25pm,8:50pm,"$2,815",19 hours 25 minutes,One,Tokyo,2 hours 25 minutes,2024-07-03
+Japan Airlines,2024-07-11,2024-07-19,12:00pm,8:55pm,"$2,802",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-11,2024-07-19,3:59pm,5:10am,"$2,462",24 hours 11 minutes,One,Seattle,7 hours 59 minutes,2024-07-03
+multipleAirlines,2024-07-11,2024-07-19,3:59pm,4:10am,"$2,462",23 hours 11 minutes,One,Seattle,6 hours 59 minutes,2024-07-03
+multipleAirlines,2024-07-11,2024-07-19,9:17pm,8:55am,"$2,138",22 hours 38 minutes,Two,"San Francisco, Hong Kong","1 hour 58 minutes, 1 hour 5 minutes",2024-07-03
+multipleAirlines,2024-07-11,2024-07-19,2:30pm,5:10am,"$2,462",25 hours 40 minutes,One,Seattle,9 hours 28 minutes,2024-07-03
+multipleAirlines,2024-07-11,2024-07-19,2:30pm,4:10am,"$2,462",24 hours 40 minutes,One,Seattle,8 hours 28 minutes,2024-07-03
+multipleAirlines,2024-07-11,2024-07-19,12:53pm,4:10am,"$2,462",26 hours 17 minutes,One,Seattle,10 hours 8 minutes,2024-07-03
+Turkish Airlines,2024-07-11,2024-07-19,8:40pm,5:55pm,"$2,455",32 hours 15 minutes,One,Istanbul,8 hours 55 minutes,2024-07-03
+Cathay Pacific,2024-07-11,2024-07-19,9:17pm,9:00am,"$2,160",22 hours 43 minutes,Two,"San Francisco, Hong Kong","1 hour 58 minutes, 1 hour 0 minutes",2024-07-03
+Korean Air,2024-07-11,2024-07-19,7:00am,5:50pm,"$2,332",21 hours 50 minutes,Two,"Minneapolis, Seoul","2 hours 5 minutes, 0 hours 50 minutes",2024-07-03
+Cathay Pacific,2024-07-11,2024-07-19,9:17pm,8:55am,"$2,160",22 hours 38 minutes,Two,"San Francisco, Hong Kong","1 hour 58 minutes, 1 hour 5 minutes",2024-07-03
+multipleAirlines,2024-07-11,2024-07-19,3:59pm,4:40am,"$2,097",23 hours 41 minutes,Two,"Seattle, San Francisco","1 hour 48 minutes, 2 hours 40 minutes",2024-07-03
+Delta,2024-07-12,2024-07-20,7:54am,3:15pm,"$1,983",18 hours 21 minutes,One,Seattle,1 hour 33 minutes,2024-07-03
+United,2024-07-12,2024-07-20,6:00am,6:45pm,"$1,928",23 hours 45 minutes,One,San Francisco,6 hours 46 minutes,2024-07-03
+United,2024-07-12,2024-07-20,7:58pm,4:05am,"$1,978",19 hours 7 minutes,One,San Francisco,1 hour 58 minutes,2024-07-03
+United,2024-07-12,2024-07-20,6:00am,4:05am,"$1,941",33 hours 5 minutes,One,San Francisco,16 hours 1 minute,2024-07-03
+United,2024-07-12,2024-07-20,6:46pm,4:05am,"$2,087",20 hours 19 minutes,Two,"Denver, San Francisco","1 hour 3 minutes, 0 hours 45 minutes",2024-07-03
+Korean Air,2024-07-12,2024-07-20,7:00am,5:50pm,"$2,072",21 hours 50 minutes,Two,"Minneapolis, Seoul","2 hours 5 minutes, 0 hours 50 minutes",2024-07-03
+multipleAirlines,2024-07-12,2024-07-20,6:00am,5:00pm,"$2,404",22 hours 0 minutes,One,San Francisco,5 hours 16 minutes,2024-07-03
+Japan Airlines,2024-07-12,2024-07-20,12:00pm,8:55pm,"$2,492",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+United,2024-07-12,2024-07-20,7:15am,6:45pm,"$2,087",22 hours 30 minutes,Two,"Houston, San Francisco","1 hour 49 minutes, 2 hours 20 minutes",2024-07-03
+United,2024-07-12,2024-07-20,7:00am,6:45pm,"$2,087",22 hours 45 minutes,Two,"Chicago, San Francisco","1 hour 7 minutes, 1 hour 5 minutes",2024-07-03
+United,2024-07-12,2024-07-20,4:35pm,4:05am,"$2,087",22 hours 30 minutes,Two,"Denver, San Francisco","3 hours 35 minutes, 0 hours 45 minutes",2024-07-03
+United,2024-07-12,2024-07-20,6:00am,6:45pm,"$2,092",23 hours 45 minutes,Two,"Denver, San Francisco","4 hours 25 minutes, 1 hour 20 minutes",2024-07-03
+multipleAirlines,2024-07-12,2024-07-20,7:45pm,5:10am,"$2,449",20 hours 25 minutes,One,Seattle,4 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-12,2024-07-20,3:59pm,4:40am,"$2,097",23 hours 41 minutes,Two,"Seattle, San Francisco","1 hour 48 minutes, 2 hours 40 minutes",2024-07-03
+China Airlines,2024-07-12,2024-07-20,6:20am,9:20pm,"$2,324",26 hours 0 minutes,One,Los Angeles,9 hours 22 minutes,2024-07-03
+Japan Airlines,2024-07-12,2024-07-20,12:25pm,11:35am,"$2,376",34 hours 10 minutes,One,Tokyo,17 hours 0 minutes,2024-07-03
+multipleAirlines,2024-07-12,2024-07-20,5:45pm,5:10am,"$2,449",22 hours 25 minutes,One,Seattle,6 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-12,2024-07-20,2:30pm,4:40am,"$2,062",25 hours 10 minutes,Two,"Seattle, San Francisco","1 hour 3 minutes, 4 hours 54 minutes",2024-07-03
+multipleAirlines,2024-07-12,2024-07-20,2:30pm,4:40am,"$2,062",25 hours 10 minutes,Two,"Seattle, San Francisco","2 hours 3 minutes, 3 hours 55 minutes",2024-07-03
+multipleAirlines,2024-07-12,2024-07-20,2:30pm,4:40am,"$2,062",25 hours 10 minutes,Two,"Seattle, San Francisco","3 hours 17 minutes, 2 hours 40 minutes",2024-07-03
+multipleAirlines,2024-07-12,2024-07-20,3:59pm,5:10am,"$2,133",24 hours 11 minutes,Two,"Seattle, Los Angeles","2 hours 1 minutes, 1 hour 50 minutes",2024-07-03
+multipleAirlines,2024-07-12,2024-07-20,3:59pm,5:10am,"$2,133",24 hours 11 minutes,Two,"Seattle, Los Angeles","1 hour 1 minutes, 2 hours 50 minutes",2024-07-03
+multipleAirlines,2024-07-12,2024-07-20,9:00am,9:20pm,"$2,213",23 hours 20 minutes,Two,"Seattle, Los Angeles","0 hours 41 minutes, 2 hours 13 minutes",2024-07-03
+multipleAirlines,2024-07-12,2024-07-20,2:15pm,4:40am,"$2,097",25 hours 25 minutes,Two,"Portland, San Francisco","0 hours 46 minutes, 6 hours 0 minutes",2024-07-03
+multipleAirlines,2024-07-12,2024-07-20,2:15pm,4:40am,"$2,097",25 hours 25 minutes,Two,"Portland, San Francisco","3 hours 45 minutes, 3 hours 3 minutes",2024-07-03
+United,2024-07-13,2024-07-21,7:58pm,4:05am,"$1,635",19 hours 7 minutes,One,San Francisco,1 hour 58 minutes,2024-07-03
+United,2024-07-13,2024-07-21,6:00am,6:45pm,"$1,635",23 hours 45 minutes,One,San Francisco,6 hours 46 minutes,2024-07-03
+Delta,2024-07-13,2024-07-21,7:54am,3:25pm,"$2,068",18 hours 31 minutes,One,Seattle,1 hour 43 minutes,2024-07-03
+United,2024-07-13,2024-07-21,6:00am,4:05am,"$1,670",33 hours 5 minutes,One,San Francisco,16 hours 1 minute,2024-07-03
+Korean Air,2024-07-13,2024-07-21,10:30am,12:10pm,"$2,119",36 hours 40 minutes,One,Seoul,19 hours 15 minutes,2024-07-03
+Japan Airlines,2024-07-13,2024-07-21,12:00pm,8:55pm,"$2,463",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-13,2024-07-21,6:00am,5:00pm,"$2,471",22 hours 0 minutes,One,San Francisco,5 hours 16 minutes,2024-07-03
+multipleAirlines,2024-07-13,2024-07-21,7:58pm,5:15am,"$2,471",20 hours 17 minutes,One,San Francisco,3 hours 38 minutes,2024-07-03
+Delta,2024-07-13,2024-07-21,3:09pm,3:30pm,"$2,087",35 hours 21 minutes,One,Seattle,18 hours 35 minutes,2024-07-03
+multipleAirlines,2024-07-13,2024-07-21,7:58pm,4:50am,"$2,471",19 hours 52 minutes,One,San Francisco,3 hours 13 minutes,2024-07-03
+Japan Airlines,2024-07-13,2024-07-21,12:00pm,8:55pm,"$2,674",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-13,2024-07-21,5:45pm,4:10am,"$2,514",21 hours 25 minutes,One,Seattle,5 hours 10 minutes,2024-07-03
+Japan Airlines,2024-07-13,2024-07-21,12:00pm,2:30pm,"$2,311",37 hours 30 minutes,One,Tokyo,20 hours 45 minutes,2024-07-03
+multipleAirlines,2024-07-13,2024-07-21,5:45pm,5:10am,"$2,514",22 hours 25 minutes,One,Seattle,6 hours 10 minutes,2024-07-03
+Korean Air,2024-07-13,2024-07-21,12:10pm,9:25am,"$2,568",32 hours 15 minutes,One,Seoul,15 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-13,2024-07-21,2:30pm,4:10am,"$2,514",24 hours 40 minutes,One,Seattle,8 hours 28 minutes,2024-07-03
+multipleAirlines,2024-07-13,2024-07-21,2:30pm,5:10am,"$2,514",25 hours 40 minutes,One,Seattle,9 hours 28 minutes,2024-07-03
+multipleAirlines,2024-07-13,2024-07-21,3:59pm,5:10am,"$2,514",24 hours 11 minutes,One,Seattle,7 hours 59 minutes,2024-07-03
+multipleAirlines,2024-07-13,2024-07-21,3:59pm,4:10am,"$2,514",23 hours 11 minutes,One,Seattle,6 hours 59 minutes,2024-07-03
+Japan Airlines,2024-07-13,2024-07-21,12:25pm,8:50pm,"$2,951",19 hours 25 minutes,One,Tokyo,2 hours 25 minutes,2024-07-03
+Japan Airlines,2024-07-13,2024-07-21,12:25pm,8:50pm,"$3,000",19 hours 25 minutes,One,Tokyo,2 hours 25 minutes,2024-07-03
+multipleAirlines,2024-07-13,2024-07-21,12:53pm,4:10am,"$2,514",26 hours 17 minutes,One,Seattle,10 hours 8 minutes,2024-07-03
+multipleAirlines,2024-07-13,2024-07-21,12:53pm,5:10am,"$2,514",27 hours 17 minutes,One,Seattle,11 hours 8 minutes,2024-07-03
+Turkish Airlines,2024-07-13,2024-07-21,8:40pm,5:55pm,"$2,517",32 hours 15 minutes,One,Istanbul,8 hours 55 minutes,2024-07-03
+multipleAirlines,2024-07-13,2024-07-21,8:45pm,9:00am,"$2,289",23 hours 15 minutes,Two,"Los Angeles, Hong Kong","2 hours 25 minutes, 1 hour 15 minutes",2024-07-03
+United,2024-07-14,2024-07-22,7:58pm,4:05am,"$1,393",19 hours 7 minutes,One,San Francisco,1 hour 58 minutes,2024-07-03
+United,2024-07-14,2024-07-22,6:00am,6:45pm,"$1,393",23 hours 45 minutes,One,San Francisco,6 hours 46 minutes,2024-07-03
+United,2024-07-14,2024-07-22,7:58pm,6:45pm,"$1,384",33 hours 47 minutes,One,San Francisco,16 hours 43 minutes,2024-07-03
+United,2024-07-14,2024-07-22,6:00am,4:05am,"$1,404",33 hours 5 minutes,One,San Francisco,16 hours 1 minute,2024-07-03
+Delta,2024-07-14,2024-07-22,7:54am,3:30pm,"$1,959",18 hours 36 minutes,One,Seattle,1 hour 48 minutes,2024-07-03
+Japan Airlines,2024-07-14,2024-07-22,12:00pm,8:55pm,"$2,182",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+Korean Air,2024-07-14,2024-07-22,10:30am,12:10pm,"$2,012",36 hours 40 minutes,One,Seoul,19 hours 15 minutes,2024-07-03
+Delta,2024-07-14,2024-07-22,3:09pm,3:20pm,"$1,937",35 hours 11 minutes,One,Seattle,18 hours 25 minutes,2024-07-03
+Japan Airlines,2024-07-14,2024-07-22,12:00pm,2:30pm,"$2,029",37 hours 30 minutes,One,Tokyo,20 hours 45 minutes,2024-07-03
+multipleAirlines,2024-07-14,2024-07-22,7:45pm,5:10am,"$2,306",20 hours 25 minutes,One,Seattle,4 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-14,2024-07-22,6:00am,5:00pm,"$2,366",22 hours 0 minutes,One,San Francisco,5 hours 16 minutes,2024-07-03
+multipleAirlines,2024-07-14,2024-07-22,7:58pm,4:50am,"$2,351",19 hours 52 minutes,One,San Francisco,3 hours 13 minutes,2024-07-03
+multipleAirlines,2024-07-14,2024-07-22,7:58pm,5:15am,"$2,406",20 hours 17 minutes,One,San Francisco,3 hours 38 minutes,2024-07-03
+Japan Airlines,2024-07-14,2024-07-22,12:00pm,8:55pm,"$2,523",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+China Airlines,2024-07-14,2024-07-22,6:20am,9:20pm,"$2,110",26 hours 0 minutes,One,Los Angeles,9 hours 22 minutes,2024-07-03
+Japan Airlines,2024-07-14,2024-07-22,12:25pm,11:35am,"$2,180",34 hours 10 minutes,One,Tokyo,17 hours 0 minutes,2024-07-03
+multipleAirlines,2024-07-14,2024-07-22,5:45pm,5:10am,"$2,306",22 hours 25 minutes,One,Seattle,6 hours 10 minutes,2024-07-03
+Korean Air,2024-07-14,2024-07-22,12:10pm,9:25am,"$2,278",32 hours 15 minutes,One,Seoul,15 hours 10 minutes,2024-07-03
+Japan Airlines,2024-07-14,2024-07-22,12:25pm,8:50pm,"$2,670",19 hours 25 minutes,One,Tokyo,2 hours 25 minutes,2024-07-03
+Japan Airlines,2024-07-14,2024-07-22,12:00pm,2:30pm,"$2,209",37 hours 30 minutes,One,Tokyo,20 hours 45 minutes,2024-07-03
+Korean Air,2024-07-14,2024-07-22,12:10pm,12:10pm,"$2,278",35 hours 0 minutes,One,Seoul,17 hours 50 minutes,2024-07-03
+Korean Air,2024-07-14,2024-07-22,10:30am,12:10pm,"$2,318",36 hours 40 minutes,One,Seoul,19 hours 15 minutes,2024-07-03
+Japan Airlines,2024-07-14,2024-07-22,11:13am,8:55pm,"$2,106",20 hours 42 minutes,Two,"San Francisco, Tokyo","1 hour 4 minutes, 1 hour 40 minutes",2024-07-03
+multipleAirlines,2024-07-14,2024-07-22,11:13am,8:55pm,"$2,106",20 hours 42 minutes,Two,"San Francisco, Tokyo","1 hour 4 minutes, 1 hour 40 minutes",2024-07-03
+multipleAirlines,2024-07-14,2024-07-22,2:30pm,5:10am,"$2,306",25 hours 40 minutes,One,Seattle,9 hours 28 minutes,2024-07-03
+United,2024-07-15,2024-07-23,7:58pm,4:05am,"$1,492",19 hours 7 minutes,One,San Francisco,1 hour 58 minutes,2024-07-03
+United,2024-07-15,2024-07-23,6:00am,6:45pm,"$1,492",23 hours 45 minutes,One,San Francisco,6 hours 46 minutes,2024-07-03
+Delta,2024-07-15,2024-07-23,7:54am,3:20pm,"$1,903",18 hours 26 minutes,One,Seattle,1 hour 38 minutes,2024-07-03
+United,2024-07-15,2024-07-23,6:00am,4:05am,"$1,503",33 hours 5 minutes,One,San Francisco,16 hours 1 minute,2024-07-03
+multipleAirlines,2024-07-15,2024-07-23,7:58pm,5:15am,"$1,762",20 hours 17 minutes,One,San Francisco,3 hours 38 minutes,2024-07-03
+multipleAirlines,2024-07-15,2024-07-23,7:58pm,4:50am,"$1,787",19 hours 52 minutes,One,San Francisco,3 hours 13 minutes,2024-07-03
+multipleAirlines,2024-07-15,2024-07-23,7:45pm,5:10am,"$1,852",20 hours 25 minutes,One,Seattle,4 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-15,2024-07-23,5:45pm,5:10am,"$1,852",22 hours 25 minutes,One,Seattle,6 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-15,2024-07-23,6:00am,5:00pm,"$2,092",22 hours 0 minutes,One,San Francisco,5 hours 16 minutes,2024-07-03
+Japan Airlines,2024-07-15,2024-07-23,12:25pm,8:50pm,"$2,253",19 hours 25 minutes,One,Tokyo,2 hours 25 minutes,2024-07-03
+multipleAirlines,2024-07-15,2024-07-23,3:59pm,5:10am,"$1,852",24 hours 11 minutes,One,Seattle,7 hours 59 minutes,2024-07-03
+Japan Airlines,2024-07-15,2024-07-23,12:00pm,8:55pm,"$2,255",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+Asiana Airlines,2024-07-15,2024-07-23,7:58pm,11:30am,"$1,632",26 hours 32 minutes,Two,"San Francisco, Seoul","1 hour 43 minutes, 6 hours 0 minutes",2024-07-03
+multipleAirlines,2024-07-15,2024-07-23,2:30pm,5:10am,"$1,852",25 hours 40 minutes,One,Seattle,9 hours 28 minutes,2024-07-03
+Korean Air,2024-07-15,2024-07-23,10:30am,12:10pm,"$1,987",36 hours 40 minutes,One,Seoul,19 hours 15 minutes,2024-07-03
+Japan Airlines,2024-07-15,2024-07-23,12:00pm,2:30pm,"$2,063",37 hours 30 minutes,One,Tokyo,20 hours 45 minutes,2024-07-03
+multipleAirlines,2024-07-15,2024-07-23,7:00am,5:50pm,"$1,991",21 hours 50 minutes,Two,"Minneapolis, Seoul","2 hours 5 minutes, 0 hours 50 minutes",2024-07-03
+Korean Air,2024-07-15,2024-07-23,12:10pm,9:25am,"$2,297",32 hours 15 minutes,One,Seoul,15 hours 10 minutes,2024-07-03
+Korean Air,2024-07-15,2024-07-23,10:30am,12:10pm,"$2,318",36 hours 40 minutes,One,Seoul,19 hours 15 minutes,2024-07-03
+Japan Airlines,2024-07-15,2024-07-23,11:30am,8:50pm,"$2,866",20 hours 20 minutes,One,Tokyo,3 hours 40 minutes,2024-07-03
+multipleAirlines,2024-07-15,2024-07-23,9:17pm,9:00am,"$2,047",22 hours 43 minutes,Two,"San Francisco, Hong Kong","1 hour 58 minutes, 1 hour 0 minutes",2024-07-03
+Turkish Airlines,2024-07-15,2024-07-23,8:40pm,5:55pm,"$2,385",32 hours 15 minutes,One,Istanbul,8 hours 55 minutes,2024-07-03
+Korean Air,2024-07-15,2024-07-23,12:10pm,9:25am,"$2,587",32 hours 15 minutes,One,Seoul,15 hours 10 minutes,2024-07-03
+Cathay Pacific,2024-07-15,2024-07-23,9:17pm,9:00am,"$2,069",22 hours 43 minutes,Two,"San Francisco, Hong Kong","1 hour 58 minutes, 1 hour 0 minutes",2024-07-03
+Japan Airlines,2024-07-15,2024-07-23,12:25pm,8:50pm,"$3,160",19 hours 25 minutes,One,Tokyo,2 hours 25 minutes,2024-07-03
+United,2024-07-16,2024-07-24,7:58pm,4:05am,"$1,492",19 hours 7 minutes,One,San Francisco,1 hour 58 minutes,2024-07-03
+United,2024-07-16,2024-07-24,6:00am,6:45pm,"$1,581",23 hours 45 minutes,One,San Francisco,6 hours 46 minutes,2024-07-03
+Delta,2024-07-16,2024-07-24,7:54am,3:15pm,"$1,903",18 hours 21 minutes,One,Seattle,1 hour 33 minutes,2024-07-03
+United,2024-07-16,2024-07-24,6:00am,4:05am,"$1,503",33 hours 5 minutes,One,San Francisco,16 hours 1 minute,2024-07-03
+multipleAirlines,2024-07-16,2024-07-24,6:00am,5:00pm,"$1,862",22 hours 0 minutes,One,San Francisco,5 hours 16 minutes,2024-07-03
+multipleAirlines,2024-07-16,2024-07-24,7:45pm,4:10am,"$1,852",19 hours 25 minutes,One,Seattle,3 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-16,2024-07-24,7:45pm,5:10am,"$1,852",20 hours 25 minutes,One,Seattle,4 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-16,2024-07-24,5:45pm,4:10am,"$1,852",21 hours 25 minutes,One,Seattle,5 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-16,2024-07-24,5:45pm,5:10am,"$1,852",22 hours 25 minutes,One,Seattle,6 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-16,2024-07-24,3:59pm,4:10am,"$1,852",23 hours 11 minutes,One,Seattle,6 hours 59 minutes,2024-07-03
+multipleAirlines,2024-07-16,2024-07-24,3:59pm,5:10am,"$1,852",24 hours 11 minutes,One,Seattle,7 hours 59 minutes,2024-07-03
+Japan Airlines,2024-07-16,2024-07-24,12:25pm,8:50pm,"$2,223",19 hours 25 minutes,One,Tokyo,2 hours 25 minutes,2024-07-03
+Japan Airlines,2024-07-16,2024-07-24,12:00pm,8:55pm,"$2,225",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-16,2024-07-24,2:30pm,4:10am,"$1,852",24 hours 40 minutes,One,Seattle,8 hours 28 minutes,2024-07-03
+multipleAirlines,2024-07-16,2024-07-24,2:30pm,5:10am,"$1,852",25 hours 40 minutes,One,Seattle,9 hours 28 minutes,2024-07-03
+Korean Air,2024-07-16,2024-07-24,10:30am,12:10pm,"$1,987",36 hours 40 minutes,One,Seoul,19 hours 15 minutes,2024-07-03
+Delta,2024-07-16,2024-07-24,3:09pm,3:20pm,"$1,921",35 hours 11 minutes,One,Seattle,18 hours 25 minutes,2024-07-03
+Korean Air,2024-07-16,2024-07-24,12:10pm,9:25am,"$2,147",32 hours 15 minutes,One,Seoul,15 hours 10 minutes,2024-07-03
+Korean Air,2024-07-16,2024-07-24,12:10pm,12:10pm,"$2,147",35 hours 0 minutes,One,Seoul,17 hours 50 minutes,2024-07-03
+Japan Airlines,2024-07-16,2024-07-24,12:00pm,2:30pm,"$2,033",37 hours 30 minutes,One,Tokyo,20 hours 45 minutes,2024-07-03
+United,2024-07-16,2024-07-24,7:58pm,6:45pm,"$2,026",33 hours 47 minutes,One,San Francisco,16 hours 43 minutes,2024-07-03
+Japan Airlines,2024-07-16,2024-07-24,12:25pm,11:35am,"$2,223",34 hours 10 minutes,One,Tokyo,17 hours 0 minutes,2024-07-03
+Korean Air,2024-07-16,2024-07-24,10:30am,12:10pm,"$2,318",36 hours 40 minutes,One,Seoul,19 hours 15 minutes,2024-07-03
+multipleAirlines,2024-07-16,2024-07-24,11:00am,8:50pm,"$2,148",20 hours 50 minutes,Two,"Los Angeles, Tokyo","2 hours 0 minutes, 0 hours 55 minutes",2024-07-03
+multipleAirlines,2024-07-16,2024-07-24,10:56am,8:55pm,"$2,150",20 hours 59 minutes,Two,"San Diego, Tokyo","1 hour 42 minutes, 1 hour 25 minutes",2024-07-03
+United,2024-07-17,2024-07-25,7:58pm,4:05am,"$1,492",19 hours 7 minutes,One,San Francisco,1 hour 58 minutes,2024-07-03
+United,2024-07-17,2024-07-25,6:00am,6:45pm,"$1,492",23 hours 45 minutes,One,San Francisco,6 hours 46 minutes,2024-07-03
+United,2024-07-17,2024-07-25,6:00am,4:05am,"$1,503",33 hours 5 minutes,One,San Francisco,16 hours 1 minute,2024-07-03
+Delta,2024-07-17,2024-07-25,7:54am,3:20pm,"$1,994",18 hours 26 minutes,One,Seattle,1 hour 38 minutes,2024-07-03
+multipleAirlines,2024-07-17,2024-07-25,7:58pm,5:15am,"$2,099",20 hours 17 minutes,One,San Francisco,3 hours 38 minutes,2024-07-03
+multipleAirlines,2024-07-17,2024-07-25,7:45pm,5:10am,"$2,089",20 hours 25 minutes,One,Seattle,4 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-17,2024-07-25,7:58pm,4:50am,"$2,099",19 hours 52 minutes,One,San Francisco,3 hours 13 minutes,2024-07-03
+multipleAirlines,2024-07-17,2024-07-25,6:00am,5:00pm,"$2,099",22 hours 0 minutes,One,San Francisco,5 hours 16 minutes,2024-07-03
+Japan Airlines,2024-07-17,2024-07-25,12:25pm,8:50pm,"$2,253",19 hours 25 minutes,One,Tokyo,2 hours 25 minutes,2024-07-03
+Japan Airlines,2024-07-17,2024-07-25,12:00pm,8:55pm,"$2,255",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-17,2024-07-25,5:45pm,5:10am,"$2,089",22 hours 25 minutes,One,Seattle,6 hours 10 minutes,2024-07-03
+Korean Air,2024-07-17,2024-07-25,12:10pm,12:10pm,"$2,045",35 hours 0 minutes,One,Seoul,17 hours 50 minutes,2024-07-03
+multipleAirlines,2024-07-17,2024-07-25,3:59pm,5:10am,"$2,089",24 hours 11 minutes,One,Seattle,7 hours 59 minutes,2024-07-03
+Japan Airlines,2024-07-17,2024-07-25,12:00pm,2:30pm,"$2,063",37 hours 30 minutes,One,Tokyo,20 hours 45 minutes,2024-07-03
+multipleAirlines,2024-07-17,2024-07-25,2:30pm,5:10am,"$2,089",25 hours 40 minutes,One,Seattle,9 hours 28 minutes,2024-07-03
+Japan Airlines,2024-07-17,2024-07-25,12:25pm,8:50pm,"$2,656",19 hours 25 minutes,One,Tokyo,2 hours 25 minutes,2024-07-03
+Japan Airlines,2024-07-17,2024-07-25,12:00pm,8:55pm,"$2,658",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+United,2024-07-17,2024-07-25,7:58pm,6:45pm,"$2,129",33 hours 47 minutes,One,San Francisco,16 hours 43 minutes,2024-07-03
+multipleAirlines,2024-07-17,2024-07-25,7:00am,5:50pm,"$2,050",21 hours 50 minutes,Two,"Minneapolis, Seoul","2 hours 5 minutes, 0 hours 50 minutes",2024-07-03
+Korean Air,2024-07-17,2024-07-25,7:00am,5:50pm,"$2,051",21 hours 50 minutes,Two,"Minneapolis, Seoul","2 hours 5 minutes, 0 hours 50 minutes",2024-07-03
+Delta,2024-07-17,2024-07-25,7:00am,5:50pm,"$2,083",21 hours 50 minutes,Two,"Minneapolis, Seoul","2 hours 5 minutes, 0 hours 50 minutes",2024-07-03
+multipleAirlines,2024-07-17,2024-07-25,7:00am,5:50pm,"$2,084",21 hours 50 minutes,Two,"Minneapolis, Seoul","2 hours 5 minutes, 0 hours 50 minutes",2024-07-03
+Japan Airlines,2024-07-17,2024-07-25,12:00pm,2:30pm,"$2,316",37 hours 30 minutes,One,Tokyo,20 hours 45 minutes,2024-07-03
+Japan Airlines,2024-07-17,2024-07-25,11:30am,8:50pm,"$2,866",20 hours 20 minutes,One,Tokyo,3 hours 40 minutes,2024-07-03
+Turkish Airlines,2024-07-17,2024-07-25,8:40pm,5:55pm,"$2,443",32 hours 15 minutes,One,Istanbul,8 hours 55 minutes,2024-07-03
+United,2024-07-18,2024-07-26,7:58pm,4:05am,"$1,500",19 hours 7 minutes,One,San Francisco,1 hour 58 minutes,2024-07-03
+United,2024-07-18,2024-07-26,6:00am,6:45pm,"$1,500",23 hours 45 minutes,One,San Francisco,6 hours 46 minutes,2024-07-03
+United,2024-07-18,2024-07-26,6:00am,4:05am,"$1,511",33 hours 5 minutes,One,San Francisco,16 hours 1 minute,2024-07-03
+Delta,2024-07-18,2024-07-26,7:54am,3:30pm,"$1,931",18 hours 36 minutes,One,Seattle,1 hour 48 minutes,2024-07-03
+Japan Airlines,2024-07-18,2024-07-26,12:00pm,8:55pm,"$2,193",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-18,2024-07-26,5:45pm,4:10am,"$2,002",21 hours 25 minutes,One,Seattle,5 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-18,2024-07-26,6:00am,5:00pm,"$2,207",22 hours 0 minutes,One,San Francisco,5 hours 16 minutes,2024-07-03
+multipleAirlines,2024-07-18,2024-07-26,5:45pm,5:10am,"$2,002",22 hours 25 minutes,One,Seattle,6 hours 10 minutes,2024-07-03
+Korean Air,2024-07-18,2024-07-26,7:00am,5:50pm,"$1,989",21 hours 50 minutes,Two,"Minneapolis, Seoul","2 hours 5 minutes, 0 hours 50 minutes",2024-07-03
+Korean Air,2024-07-18,2024-07-26,12:10pm,9:25am,"$2,293",32 hours 15 minutes,One,Seoul,15 hours 10 minutes,2024-07-03
+Japan Airlines,2024-07-18,2024-07-26,12:00pm,8:55pm,"$2,802",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-18,2024-07-26,3:59pm,4:40am,"$1,891",23 hours 41 minutes,Two,"Seattle, San Francisco","1 hour 48 minutes, 2 hours 40 minutes",2024-07-03
+multipleAirlines,2024-07-18,2024-07-26,2:30pm,4:40am,"$1,864",25 hours 10 minutes,Two,"Seattle, San Francisco","3 hours 17 minutes, 2 hours 40 minutes",2024-07-03
+multipleAirlines,2024-07-18,2024-07-26,2:30pm,4:40am,"$1,864",25 hours 10 minutes,Two,"Seattle, San Francisco","2 hours 3 minutes, 3 hours 55 minutes",2024-07-03
+multipleAirlines,2024-07-18,2024-07-26,2:30pm,4:40am,"$1,864",25 hours 10 minutes,Two,"Seattle, San Francisco","1 hour 3 minutes, 4 hours 54 minutes",2024-07-03
+Turkish Airlines,2024-07-18,2024-07-26,8:40pm,5:55pm,"$2,411",32 hours 15 minutes,One,Istanbul,8 hours 55 minutes,2024-07-03
+multipleAirlines,2024-07-18,2024-07-26,2:15pm,4:40am,"$1,891",25 hours 25 minutes,Two,"Portland, San Francisco","0 hours 46 minutes, 6 hours 0 minutes",2024-07-03
+multipleAirlines,2024-07-18,2024-07-26,2:15pm,4:40am,"$1,891",25 hours 25 minutes,Two,"Portland, San Francisco","3 hours 45 minutes, 3 hours 3 minutes",2024-07-03
+Cathay Pacific,2024-07-18,2024-07-26,9:17pm,9:00am,"$2,125",22 hours 43 minutes,Two,"San Francisco, Hong Kong","1 hour 58 minutes, 1 hour 0 minutes",2024-07-03
+multipleAirlines,2024-07-18,2024-07-26,9:17pm,8:55am,"$2,104",22 hours 38 minutes,Two,"San Francisco, Hong Kong","1 hour 58 minutes, 1 hour 5 minutes",2024-07-03
+Korean Air,2024-07-18,2024-07-26,12:10pm,9:25am,"$2,588",32 hours 15 minutes,One,Seoul,15 hours 10 minutes,2024-07-03
+Cathay Pacific,2024-07-18,2024-07-26,9:17pm,8:55am,"$2,125",22 hours 38 minutes,Two,"San Francisco, Hong Kong","1 hour 58 minutes, 1 hour 5 minutes",2024-07-03
+multipleAirlines,2024-07-18,2024-07-26,3:59pm,5:10am,"$1,953",24 hours 11 minutes,Two,"Seattle, Los Angeles","2 hours 1 minutes, 1 hour 50 minutes",2024-07-03
+multipleAirlines,2024-07-18,2024-07-26,3:59pm,5:10am,"$1,953",24 hours 11 minutes,Two,"Seattle, Los Angeles","1 hour 1 minutes, 2 hours 50 minutes",2024-07-03
+Cathay Pacific,2024-07-18,2024-07-26,9:45pm,9:55am,"$2,125",23 hours 10 minutes,Two,"Los Angeles, Hong Kong","2 hours 23 minutes, 1 hour 15 minutes",2024-07-03
+United,2024-07-19,2024-07-27,7:58pm,4:05am,"$1,540",19 hours 7 minutes,One,San Francisco,1 hour 58 minutes,2024-07-03
+United,2024-07-19,2024-07-27,6:00am,6:45pm,"$1,540",23 hours 45 minutes,One,San Francisco,6 hours 46 minutes,2024-07-03
+United,2024-07-19,2024-07-27,6:00am,4:05am,"$1,551",33 hours 5 minutes,One,San Francisco,16 hours 1 minute,2024-07-03
+Delta,2024-07-19,2024-07-27,7:54am,3:15pm,"$2,019",18 hours 21 minutes,One,Seattle,1 hour 33 minutes,2024-07-03
+Korean Air,2024-07-19,2024-07-27,12:10pm,12:10pm,"$2,070",35 hours 0 minutes,One,Seoul,17 hours 50 minutes,2024-07-03
+Korean Air,2024-07-19,2024-07-27,10:30am,12:10pm,"$2,070",36 hours 40 minutes,One,Seoul,19 hours 15 minutes,2024-07-03
+multipleAirlines,2024-07-19,2024-07-27,6:00am,5:00pm,"$2,377",22 hours 0 minutes,One,San Francisco,5 hours 16 minutes,2024-07-03
+Delta,2024-07-19,2024-07-27,12:10pm,12:10pm,"$2,104",35 hours 0 minutes,One,Seoul,17 hours 50 minutes,2024-07-03
+Delta,2024-07-19,2024-07-27,3:09pm,3:25pm,"$2,039",35 hours 16 minutes,One,Seattle,18 hours 30 minutes,2024-07-03
+China Airlines,2024-07-19,2024-07-27,6:20am,9:20pm,"$2,194",26 hours 0 minutes,One,Los Angeles,9 hours 22 minutes,2024-07-03
+Japan Airlines,2024-07-19,2024-07-27,12:25pm,11:35am,"$2,238",34 hours 10 minutes,One,Tokyo,17 hours 0 minutes,2024-07-03
+multipleAirlines,2024-07-19,2024-07-27,7:58pm,5:15am,"$2,562",20 hours 17 minutes,One,San Francisco,3 hours 38 minutes,2024-07-03
+multipleAirlines,2024-07-19,2024-07-27,7:45pm,5:10am,"$2,590",20 hours 25 minutes,One,Seattle,4 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-19,2024-07-27,2:30pm,5:10am,"$2,315",25 hours 40 minutes,One,Seattle,9 hours 28 minutes,2024-07-03
+multipleAirlines,2024-07-19,2024-07-27,7:58pm,4:50am,"$2,637",19 hours 52 minutes,One,San Francisco,3 hours 13 minutes,2024-07-03
+multipleAirlines,2024-07-19,2024-07-27,7:30pm,11:30am,"$1,880",27 hours 0 minutes,Two,"Los Angeles, Seoul","2 hours 19 minutes, 6 hours 0 minutes",2024-07-03
+Korean Air,2024-07-19,2024-07-27,7:00am,5:50pm,"$2,076",21 hours 50 minutes,Two,"Minneapolis, Seoul","2 hours 5 minutes, 0 hours 50 minutes",2024-07-03
+Japan Airlines,2024-07-19,2024-07-27,12:00pm,8:55pm,"$2,730",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+Delta,2024-07-19,2024-07-27,7:00am,5:50pm,"$2,108",21 hours 50 minutes,Two,"Minneapolis, Seoul","2 hours 5 minutes, 0 hours 50 minutes",2024-07-03
+United,2024-07-19,2024-07-27,7:58pm,6:45pm,"$2,333",33 hours 47 minutes,One,San Francisco,16 hours 43 minutes,2024-07-03
+multipleAirlines,2024-07-19,2024-07-27,2:30pm,4:40am,"$1,911",25 hours 10 minutes,Two,"Seattle, San Francisco","2 hours 3 minutes, 3 hours 55 minutes",2024-07-03
+multipleAirlines,2024-07-19,2024-07-27,2:30pm,4:40am,"$1,911",25 hours 10 minutes,Two,"Seattle, San Francisco","1 hour 3 minutes, 4 hours 54 minutes",2024-07-03
+multipleAirlines,2024-07-19,2024-07-27,2:30pm,4:40am,"$1,911",25 hours 10 minutes,Two,"Seattle, San Francisco","3 hours 17 minutes, 2 hours 40 minutes",2024-07-03
+Turkish Airlines,2024-07-19,2024-07-27,8:40pm,5:55pm,"$2,468",32 hours 15 minutes,One,Istanbul,8 hours 55 minutes,2024-07-03
+Japan Airlines,2024-07-19,2024-07-27,11:30am,11:35am,"$2,527",35 hours 5 minutes,One,Tokyo,18 hours 15 minutes,2024-07-03
+United,2024-07-20,2024-07-28,7:58pm,4:05am,"$1,583",19 hours 7 minutes,One,San Francisco,1 hour 58 minutes,2024-07-03
+United,2024-07-20,2024-07-28,6:00am,6:45pm,"$1,583",23 hours 45 minutes,One,San Francisco,6 hours 46 minutes,2024-07-03
+United,2024-07-20,2024-07-28,6:00am,4:05am,"$1,596",33 hours 5 minutes,One,San Francisco,16 hours 1 minute,2024-07-03
+Delta,2024-07-20,2024-07-28,7:54am,3:25pm,"$2,132",18 hours 31 minutes,One,Seattle,1 hour 43 minutes,2024-07-03
+multipleAirlines,2024-07-20,2024-07-28,5:45pm,4:10am,"$2,159",21 hours 25 minutes,One,Seattle,5 hours 10 minutes,2024-07-03
+Korean Air,2024-07-20,2024-07-28,10:30am,12:10pm,"$2,180",36 hours 40 minutes,One,Seoul,19 hours 15 minutes,2024-07-03
+multipleAirlines,2024-07-20,2024-07-28,5:45pm,5:10am,"$2,159",22 hours 25 minutes,One,Seattle,6 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-20,2024-07-28,6:00am,5:00pm,"$2,483",22 hours 0 minutes,One,San Francisco,5 hours 16 minutes,2024-07-03
+Korean Air,2024-07-20,2024-07-28,10:30am,12:10pm,"$2,318",36 hours 40 minutes,One,Seoul,19 hours 15 minutes,2024-07-03
+multipleAirlines,2024-07-20,2024-07-28,2:27pm,4:10am,"$2,159",24 hours 43 minutes,One,Seattle,8 hours 30 minutes,2024-07-03
+multipleAirlines,2024-07-20,2024-07-28,3:59pm,5:10am,"$2,159",24 hours 11 minutes,One,Seattle,7 hours 59 minutes,2024-07-03
+multipleAirlines,2024-07-20,2024-07-28,3:59pm,4:10am,"$2,159",23 hours 11 minutes,One,Seattle,6 hours 59 minutes,2024-07-03
+multipleAirlines,2024-07-20,2024-07-28,2:27pm,5:10am,"$2,159",25 hours 43 minutes,One,Seattle,9 hours 30 minutes,2024-07-03
+multipleAirlines,2024-07-20,2024-07-28,7:58pm,5:15am,"$2,483",20 hours 17 minutes,One,San Francisco,3 hours 38 minutes,2024-07-03
+Delta,2024-07-20,2024-07-28,3:09pm,3:30pm,"$2,151",35 hours 21 minutes,One,Seattle,18 hours 35 minutes,2024-07-03
+multipleAirlines,2024-07-20,2024-07-28,7:58pm,4:50am,"$2,483",19 hours 52 minutes,One,San Francisco,3 hours 13 minutes,2024-07-03
+multipleAirlines,2024-07-20,2024-07-28,7:58pm,11:30am,"$1,880",26 hours 32 minutes,Two,"San Francisco, Seoul","1 hour 43 minutes, 6 hours 0 minutes",2024-07-03
+Asiana Airlines,2024-07-20,2024-07-28,7:58pm,11:30am,"$1,931",26 hours 32 minutes,Two,"San Francisco, Seoul","1 hour 43 minutes, 6 hours 0 minutes",2024-07-03
+Japan Airlines,2024-07-20,2024-07-28,12:00pm,2:30pm,"$2,472",37 hours 30 minutes,One,Tokyo,20 hours 45 minutes,2024-07-03
+multipleAirlines,2024-07-20,2024-07-28,3:59pm,4:40am,"$2,048",23 hours 41 minutes,Two,"Seattle, San Francisco","1 hour 48 minutes, 2 hours 40 minutes",2024-07-03
+multipleAirlines,2024-07-20,2024-07-28,2:27pm,4:40am,"$2,021",25 hours 13 minutes,Two,"Seattle, San Francisco","1 hour 5 minutes, 4 hours 54 minutes",2024-07-03
+multipleAirlines,2024-07-20,2024-07-28,2:27pm,4:40am,"$2,021",25 hours 13 minutes,Two,"Seattle, San Francisco","3 hours 19 minutes, 2 hours 40 minutes",2024-07-03
+multipleAirlines,2024-07-20,2024-07-28,2:15pm,4:40am,"$2,048",25 hours 25 minutes,Two,"Portland, San Francisco","3 hours 45 minutes, 3 hours 3 minutes",2024-07-03
+multipleAirlines,2024-07-20,2024-07-28,2:15pm,4:40am,"$2,048",25 hours 25 minutes,Two,"Portland, San Francisco","0 hours 46 minutes, 6 hours 0 minutes",2024-07-03
+Japan Airlines,2024-07-20,2024-07-28,12:25pm,8:50pm,"$3,311",19 hours 25 minutes,One,Tokyo,2 hours 25 minutes,2024-07-03
+United,2024-07-21,2024-07-29,7:58pm,4:05am,"$1,550",19 hours 7 minutes,One,San Francisco,1 hour 58 minutes,2024-07-03
+United,2024-07-21,2024-07-29,6:00am,6:45pm,"$1,564",23 hours 45 minutes,One,San Francisco,6 hours 46 minutes,2024-07-03
+United,2024-07-21,2024-07-29,7:58pm,6:45pm,"$1,601",33 hours 47 minutes,One,San Francisco,16 hours 43 minutes,2024-07-03
+United,2024-07-21,2024-07-29,6:00am,4:05am,"$1,561",33 hours 5 minutes,One,San Francisco,16 hours 1 minute,2024-07-03
+Delta,2024-07-21,2024-07-29,7:54am,3:30pm,"$2,081",18 hours 36 minutes,One,Seattle,1 hour 48 minutes,2024-07-03
+Japan Airlines,2024-07-21,2024-07-29,11:30am,8:50pm,"$2,218",20 hours 20 minutes,One,Tokyo,3 hours 40 minutes,2024-07-03
+Japan Airlines,2024-07-21,2024-07-29,12:00pm,8:55pm,"$2,300",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+China Airlines,2024-07-21,2024-07-29,6:20am,9:20pm,"$1,930",26 hours 0 minutes,One,Los Angeles,9 hours 22 minutes,2024-07-03
+Korean Air,2024-07-21,2024-07-29,10:30am,12:10pm,"$2,130",36 hours 40 minutes,One,Seoul,19 hours 15 minutes,2024-07-03
+multipleAirlines,2024-07-21,2024-07-29,7:45pm,5:10am,"$2,335",20 hours 25 minutes,One,Seattle,4 hours 10 minutes,2024-07-03
+Korean Air,2024-07-21,2024-07-29,12:10pm,12:10pm,"$2,130",35 hours 0 minutes,One,Seoul,17 hours 50 minutes,2024-07-03
+multipleAirlines,2024-07-21,2024-07-29,6:00am,5:00pm,"$2,366",22 hours 0 minutes,One,San Francisco,5 hours 16 minutes,2024-07-03
+Korean Air,2024-07-21,2024-07-29,12:10pm,9:25am,"$2,236",32 hours 15 minutes,One,Seoul,15 hours 10 minutes,2024-07-03
+China Airlines,2024-07-21,2024-07-29,6:20am,9:20pm,"$2,094",26 hours 0 minutes,One,Los Angeles,9 hours 22 minutes,2024-07-03
+China Airlines,2024-07-21,2024-07-29,6:20am,5:10am,"$1,926",33 hours 50 minutes,One,Los Angeles,17 hours 12 minutes,2024-07-03
+Delta,2024-07-21,2024-07-29,12:10pm,12:10pm,"$2,165",35 hours 0 minutes,One,Seoul,17 hours 50 minutes,2024-07-03
+Japan Airlines,2024-07-21,2024-07-29,11:30am,11:35am,"$2,218",35 hours 5 minutes,One,Tokyo,18 hours 15 minutes,2024-07-03
+multipleAirlines,2024-07-21,2024-07-29,7:58pm,11:30am,"$1,789",26 hours 32 minutes,Two,"San Francisco, Seoul","1 hour 43 minutes, 6 hours 0 minutes",2024-07-03
+Japan Airlines,2024-07-21,2024-07-29,12:25pm,11:35am,"$2,298",34 hours 10 minutes,One,Tokyo,17 hours 0 minutes,2024-07-03
+Japan Airlines,2024-07-21,2024-07-29,12:00pm,2:30pm,"$2,308",37 hours 30 minutes,One,Tokyo,20 hours 45 minutes,2024-07-03
+multipleAirlines,2024-07-21,2024-07-29,2:30pm,5:10am,"$2,335",25 hours 40 minutes,One,Seattle,9 hours 28 minutes,2024-07-03
+Japan Airlines,2024-07-21,2024-07-29,12:00pm,8:55pm,"$2,866",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+Korean Air,2024-07-21,2024-07-29,6:40am,5:50pm,"$2,136",22 hours 10 minutes,Two,"Minneapolis, Seoul","2 hours 21 minutes, 0 hours 50 minutes",2024-07-03
+multipleAirlines,2024-07-21,2024-07-29,9:17pm,9:00am,"$2,151",22 hours 43 minutes,Two,"San Francisco, Hong Kong","1 hour 58 minutes, 1 hour 0 minutes",2024-07-03
+Turkish Airlines,2024-07-21,2024-07-29,8:40pm,5:55pm,"$2,488",32 hours 15 minutes,One,Istanbul,8 hours 55 minutes,2024-07-03
+United,2024-07-22,2024-07-30,7:58pm,4:05am,"$1,487",19 hours 7 minutes,One,San Francisco,1 hour 58 minutes,2024-07-03
+United,2024-07-22,2024-07-30,6:00am,6:45pm,"$1,487",23 hours 45 minutes,One,San Francisco,6 hours 46 minutes,2024-07-03
+United,2024-07-22,2024-07-30,6:00am,4:05am,"$1,498",33 hours 5 minutes,One,San Francisco,16 hours 1 minute,2024-07-03
+Delta,2024-07-22,2024-07-30,7:54am,3:20pm,"$1,965",18 hours 26 minutes,One,Seattle,1 hour 38 minutes,2024-07-03
+multipleAirlines,2024-07-22,2024-07-30,7:45pm,5:10am,"$1,936",20 hours 25 minutes,One,Seattle,4 hours 10 minutes,2024-07-03
+Japan Airlines,2024-07-22,2024-07-30,12:00pm,8:55pm,"$2,167",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-22,2024-07-30,6:00am,5:00pm,"$2,146",22 hours 0 minutes,One,San Francisco,5 hours 16 minutes,2024-07-03
+multipleAirlines,2024-07-22,2024-07-30,5:45pm,5:10am,"$1,936",22 hours 25 minutes,One,Seattle,6 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-22,2024-07-30,7:58pm,5:15am,"$2,146",20 hours 17 minutes,One,San Francisco,3 hours 38 minutes,2024-07-03
+multipleAirlines,2024-07-22,2024-07-30,7:58pm,4:50am,"$2,146",19 hours 52 minutes,One,San Francisco,3 hours 13 minutes,2024-07-03
+multipleAirlines,2024-07-22,2024-07-30,3:59pm,5:10am,"$1,936",24 hours 11 minutes,One,Seattle,7 hours 59 minutes,2024-07-03
+multipleAirlines,2024-07-22,2024-07-30,2:30pm,5:10am,"$1,936",25 hours 40 minutes,One,Seattle,9 hours 28 minutes,2024-07-03
+Japan Airlines,2024-07-22,2024-07-30,11:30am,11:35am,"$2,085",35 hours 5 minutes,One,Tokyo,18 hours 15 minutes,2024-07-03
+Korean Air,2024-07-22,2024-07-30,12:10pm,9:25am,"$2,117",32 hours 15 minutes,One,Seoul,15 hours 10 minutes,2024-07-03
+Korean Air,2024-07-22,2024-07-30,12:10pm,5:50pm,"$1,957",40 hours 40 minutes,One,Seoul,23 hours 30 minutes,2024-07-03
+Korean Air,2024-07-22,2024-07-30,7:00am,5:50pm,"$1,962",21 hours 50 minutes,Two,"Minneapolis, Seoul","2 hours 5 minutes, 0 hours 50 minutes",2024-07-03
+United,2024-07-22,2024-07-30,7:58pm,6:45pm,"$2,029",33 hours 47 minutes,One,San Francisco,16 hours 43 minutes,2024-07-03
+Delta,2024-07-22,2024-07-30,7:00am,5:50pm,"$2,054",21 hours 50 minutes,Two,"Minneapolis, Seoul","2 hours 5 minutes, 0 hours 50 minutes",2024-07-03
+multipleAirlines,2024-07-22,2024-07-30,7:58pm,11:30am,"$1,780",26 hours 32 minutes,Two,"San Francisco, Seoul","1 hour 43 minutes, 6 hours 0 minutes",2024-07-03
+multipleAirlines,2024-07-22,2024-07-30,7:00am,5:50pm,"$2,055",21 hours 50 minutes,Two,"Minneapolis, Seoul","2 hours 5 minutes, 0 hours 50 minutes",2024-07-03
+Turkish Airlines,2024-07-22,2024-07-30,8:40pm,5:55pm,"$2,223",32 hours 15 minutes,One,Istanbul,8 hours 55 minutes,2024-07-03
+multipleAirlines,2024-07-22,2024-07-30,3:59pm,4:40am,"$1,865",23 hours 41 minutes,Two,"Seattle, San Francisco","1 hour 48 minutes, 2 hours 40 minutes",2024-07-03
+Asiana Airlines,2024-07-22,2024-07-30,7:58pm,11:30am,"$1,831",26 hours 32 minutes,Two,"San Francisco, Seoul","1 hour 43 minutes, 6 hours 0 minutes",2024-07-03
+multipleAirlines,2024-07-22,2024-07-30,2:30pm,4:40am,"$1,838",25 hours 10 minutes,Two,"Seattle, San Francisco","1 hour 3 minutes, 4 hours 54 minutes",2024-07-03
+multipleAirlines,2024-07-22,2024-07-30,2:30pm,4:40am,"$1,838",25 hours 10 minutes,Two,"Seattle, San Francisco","2 hours 3 minutes, 3 hours 55 minutes",2024-07-03
+United,2024-07-23,2024-07-31,7:58pm,4:05am,"$1,515",19 hours 7 minutes,One,San Francisco,1 hour 58 minutes,2024-07-03
+United,2024-07-23,2024-07-31,6:00am,6:45pm,"$1,515",23 hours 45 minutes,One,San Francisco,6 hours 46 minutes,2024-07-03
+United,2024-07-23,2024-07-31,6:00am,4:05am,"$1,526",33 hours 5 minutes,One,San Francisco,16 hours 1 minute,2024-07-03
+Delta,2024-07-23,2024-07-31,7:54am,3:15pm,"$2,045",18 hours 21 minutes,One,Seattle,1 hour 33 minutes,2024-07-03
+multipleAirlines,2024-07-23,2024-07-31,7:45pm,4:10am,"$1,884",19 hours 25 minutes,One,Seattle,3 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-23,2024-07-31,7:45pm,5:10am,"$1,884",20 hours 25 minutes,One,Seattle,4 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-23,2024-07-31,5:45pm,4:10am,"$1,884",21 hours 25 minutes,One,Seattle,5 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-23,2024-07-31,5:45pm,5:10am,"$1,884",22 hours 25 minutes,One,Seattle,6 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-23,2024-07-31,6:00am,5:00pm,"$2,099",22 hours 0 minutes,One,San Francisco,5 hours 16 minutes,2024-07-03
+multipleAirlines,2024-07-23,2024-07-31,3:59pm,4:10am,"$1,884",23 hours 11 minutes,One,Seattle,6 hours 59 minutes,2024-07-03
+multipleAirlines,2024-07-23,2024-07-31,7:58pm,5:15am,"$2,099",20 hours 17 minutes,One,San Francisco,3 hours 38 minutes,2024-07-03
+multipleAirlines,2024-07-23,2024-07-31,3:59pm,5:10am,"$1,884",24 hours 11 minutes,One,Seattle,7 hours 59 minutes,2024-07-03
+multipleAirlines,2024-07-23,2024-07-31,7:58pm,4:50am,"$2,099",19 hours 52 minutes,One,San Francisco,3 hours 13 minutes,2024-07-03
+multipleAirlines,2024-07-23,2024-07-31,2:30pm,4:10am,"$1,884",24 hours 40 minutes,One,Seattle,8 hours 28 minutes,2024-07-03
+multipleAirlines,2024-07-23,2024-07-31,2:30pm,5:10am,"$1,884",25 hours 40 minutes,One,Seattle,9 hours 28 minutes,2024-07-03
+Japan Airlines,2024-07-23,2024-07-31,12:00pm,8:55pm,"$2,305",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+Japan Airlines,2024-07-23,2024-07-31,11:30am,8:50pm,"$2,333",20 hours 20 minutes,One,Tokyo,3 hours 40 minutes,2024-07-03
+Japan Airlines,2024-07-23,2024-07-31,12:25pm,8:50pm,"$2,413",19 hours 25 minutes,One,Tokyo,2 hours 25 minutes,2024-07-03
+Korean Air,2024-07-23,2024-07-31,12:10pm,12:10pm,"$2,095",35 hours 0 minutes,One,Seoul,17 hours 50 minutes,2024-07-03
+multipleAirlines,2024-07-23,2024-07-31,12:53pm,4:10am,"$2,074",26 hours 17 minutes,One,Seattle,10 hours 8 minutes,2024-07-03
+Turkish Airlines,2024-07-23,2024-07-31,8:40pm,5:55pm,"$2,246",32 hours 15 minutes,One,Istanbul,8 hours 55 minutes,2024-07-03
+Korean Air,2024-07-23,2024-07-31,7:00am,5:50pm,"$2,101",21 hours 50 minutes,Two,"Minneapolis, Seoul","2 hours 5 minutes, 0 hours 50 minutes",2024-07-03
+Japan Airlines,2024-07-23,2024-07-31,12:25pm,8:50pm,"$2,860",19 hours 25 minutes,One,Tokyo,2 hours 25 minutes,2024-07-03
+Japan Airlines,2024-07-23,2024-07-31,10:56am,8:55pm,"$2,230",20 hours 59 minutes,Two,"San Diego, Tokyo","1 hour 42 minutes, 1 hour 25 minutes",2024-07-03
+Japan Airlines,2024-07-23,2024-07-31,12:00pm,8:55pm,"$2,862",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+United,2024-07-24,2024-08-01,7:58pm,4:05am,"$1,493",19 hours 7 minutes,One,San Francisco,1 hour 58 minutes,2024-07-03
+United,2024-07-24,2024-08-01,6:00am,6:45pm,"$1,493",23 hours 45 minutes,One,San Francisco,6 hours 46 minutes,2024-07-03
+United,2024-07-24,2024-08-01,8:58am,6:45pm,"$1,558",20 hours 47 minutes,Two,"Denver, San Francisco","1 hour 22 minutes, 1 hour 20 minutes",2024-07-03
+United,2024-07-24,2024-08-01,7:15am,6:45pm,"$1,558",22 hours 30 minutes,Two,"Houston, San Francisco","1 hour 49 minutes, 2 hours 20 minutes",2024-07-03
+United,2024-07-24,2024-08-01,7:00am,6:45pm,"$1,558",22 hours 45 minutes,Two,"Chicago, San Francisco","1 hour 7 minutes, 1 hour 5 minutes",2024-07-03
+United,2024-07-24,2024-08-01,6:00am,4:05am,"$1,504",33 hours 5 minutes,One,San Francisco,16 hours 1 minute,2024-07-03
+United,2024-07-24,2024-08-01,4:35pm,4:05am,"$1,558",22 hours 30 minutes,Two,"Denver, San Francisco","1 hour 17 minutes, 3 hours 4 minutes",2024-07-03
+Delta,2024-07-24,2024-08-01,7:54am,3:20pm,"$2,015",18 hours 26 minutes,One,Seattle,1 hour 38 minutes,2024-07-03
+United,2024-07-24,2024-08-01,3:47pm,4:05am,"$1,558",23 hours 18 minutes,Two,"Houston, San Francisco","1 hour 8 minutes, 3 hours 33 minutes",2024-07-03
+United,2024-07-24,2024-08-01,3:47pm,4:05am,"$1,558",23 hours 18 minutes,Two,"Houston, San Francisco","2 hours 57 minutes, 1 hour 45 minutes",2024-07-03
+multipleAirlines,2024-07-24,2024-08-01,6:00am,5:00pm,"$2,099",22 hours 0 minutes,One,San Francisco,5 hours 16 minutes,2024-07-03
+multipleAirlines,2024-07-24,2024-08-01,7:45pm,5:10am,"$2,089",20 hours 25 minutes,One,Seattle,4 hours 10 minutes,2024-07-03
+Japan Airlines,2024-07-24,2024-08-01,12:00pm,8:55pm,"$2,276",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+Japan Airlines,2024-07-24,2024-08-01,11:30am,8:50pm,"$2,304",20 hours 20 minutes,One,Tokyo,3 hours 40 minutes,2024-07-03
+Japan Airlines,2024-07-24,2024-08-01,12:25pm,8:50pm,"$2,384",19 hours 25 minutes,One,Tokyo,2 hours 25 minutes,2024-07-03
+multipleAirlines,2024-07-24,2024-08-01,5:45pm,5:10am,"$2,089",22 hours 25 minutes,One,Seattle,6 hours 10 minutes,2024-07-03
+Korean Air,2024-07-24,2024-08-01,12:10pm,12:10pm,"$2,066",35 hours 0 minutes,One,Seoul,17 hours 50 minutes,2024-07-03
+Korean Air,2024-07-24,2024-08-01,10:30am,12:10pm,"$2,066",36 hours 40 minutes,One,Seoul,19 hours 15 minutes,2024-07-03
+multipleAirlines,2024-07-24,2024-08-01,3:59pm,5:10am,"$2,089",24 hours 11 minutes,One,Seattle,7 hours 59 minutes,2024-07-03
+Delta,2024-07-24,2024-08-01,3:09pm,3:30pm,"$2,034",35 hours 21 minutes,One,Seattle,18 hours 35 minutes,2024-07-03
+multipleAirlines,2024-07-24,2024-08-01,2:30pm,5:10am,"$2,089",25 hours 40 minutes,One,Seattle,9 hours 28 minutes,2024-07-03
+Japan Airlines,2024-07-24,2024-08-01,11:30am,11:35am,"$2,194",35 hours 5 minutes,One,Tokyo,18 hours 15 minutes,2024-07-03
+Japan Airlines,2024-07-24,2024-08-01,12:25pm,11:35am,"$2,274",34 hours 10 minutes,One,Tokyo,17 hours 0 minutes,2024-07-03
+United,2024-07-24,2024-08-01,7:58pm,6:45pm,"$2,176",33 hours 47 minutes,One,San Francisco,16 hours 43 minutes,2024-07-03
+Turkish Airlines,2024-07-24,2024-08-01,8:40pm,5:55pm,"$2,217",32 hours 15 minutes,One,Istanbul,8 hours 55 minutes,2024-07-03
+United,2024-07-25,2024-08-02,7:58pm,4:05am,"$1,440",19 hours 7 minutes,One,San Francisco,1 hour 58 minutes,2024-07-03
+United,2024-07-25,2024-08-02,6:00am,6:45pm,"$1,440",23 hours 45 minutes,One,San Francisco,6 hours 46 minutes,2024-07-03
+United,2024-07-25,2024-08-02,6:00am,4:05am,"$1,451",33 hours 5 minutes,One,San Francisco,16 hours 1 minute,2024-07-03
+Delta,2024-07-25,2024-08-02,7:54am,3:30pm,"$1,983",18 hours 36 minutes,One,Seattle,1 hour 48 minutes,2024-07-03
+multipleAirlines,2024-07-25,2024-08-02,5:45pm,4:10am,"$1,847",21 hours 25 minutes,One,Seattle,5 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-25,2024-08-02,5:45pm,5:10am,"$1,847",22 hours 25 minutes,One,Seattle,6 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-25,2024-08-02,6:00am,5:00pm,"$2,022",22 hours 0 minutes,One,San Francisco,5 hours 16 minutes,2024-07-03
+multipleAirlines,2024-07-25,2024-08-02,3:59pm,4:10am,"$1,847",23 hours 11 minutes,One,Seattle,6 hours 59 minutes,2024-07-03
+multipleAirlines,2024-07-25,2024-08-02,3:59pm,5:10am,"$1,847",24 hours 11 minutes,One,Seattle,7 hours 59 minutes,2024-07-03
+multipleAirlines,2024-07-25,2024-08-02,2:30pm,4:10am,"$1,847",24 hours 40 minutes,One,Seattle,8 hours 28 minutes,2024-07-03
+multipleAirlines,2024-07-25,2024-08-02,2:30pm,5:10am,"$1,847",25 hours 40 minutes,One,Seattle,9 hours 28 minutes,2024-07-03
+Delta,2024-07-25,2024-08-02,3:09pm,3:15pm,"$2,043",35 hours 6 minutes,One,Seattle,18 hours 20 minutes,2024-07-03
+Delta,2024-07-25,2024-08-02,5:25am,3:30pm,"$1,983",21 hours 5 minutes,Two,"Salt Lake City, Seattle","1 hour 26 minutes, 2 hours 10 minutes",2024-07-03
+Japan Airlines,2024-07-25,2024-08-02,12:25pm,11:35am,"$2,243",34 hours 10 minutes,One,Tokyo,17 hours 0 minutes,2024-07-03
+Turkish Airlines,2024-07-25,2024-08-02,8:40pm,5:55pm,"$2,216",32 hours 15 minutes,One,Istanbul,8 hours 55 minutes,2024-07-03
+multipleAirlines,2024-07-25,2024-08-02,3:59pm,4:40am,"$1,942",23 hours 41 minutes,Two,"Seattle, San Francisco","1 hour 48 minutes, 2 hours 40 minutes",2024-07-03
+multipleAirlines,2024-07-25,2024-08-02,9:17pm,8:55am,"$2,128",22 hours 38 minutes,Two,"San Francisco, Hong Kong","1 hour 58 minutes, 1 hour 5 minutes",2024-07-03
+multipleAirlines,2024-07-25,2024-08-02,2:15pm,4:40am,"$1,942",25 hours 25 minutes,Two,"Portland, San Francisco","0 hours 46 minutes, 6 hours 0 minutes",2024-07-03
+multipleAirlines,2024-07-25,2024-08-02,2:15pm,4:40am,"$1,942",25 hours 25 minutes,Two,"Portland, San Francisco","3 hours 45 minutes, 3 hours 3 minutes",2024-07-03
+Korean Air,2024-07-25,2024-08-02,7:00am,5:50pm,"$2,325",21 hours 50 minutes,Two,"Minneapolis, Seoul","2 hours 5 minutes, 0 hours 50 minutes",2024-07-03
+Korean Air,2024-07-25,2024-08-02,12:10pm,5:50pm,"$2,319",40 hours 40 minutes,One,Seoul,23 hours 30 minutes,2024-07-03
+multipleAirlines,2024-07-25,2024-08-02,2:30pm,4:40am,"$1,915",25 hours 10 minutes,Two,"Seattle, San Francisco","1 hour 3 minutes, 4 hours 54 minutes",2024-07-03
+multipleAirlines,2024-07-25,2024-08-02,2:30pm,4:40am,"$1,915",25 hours 10 minutes,Two,"Seattle, San Francisco","3 hours 17 minutes, 2 hours 40 minutes",2024-07-03
+multipleAirlines,2024-07-25,2024-08-02,2:30pm,4:40am,"$1,915",25 hours 10 minutes,Two,"Seattle, San Francisco","2 hours 3 minutes, 3 hours 55 minutes",2024-07-03
+multipleAirlines,2024-07-25,2024-08-02,2:30pm,5:10am,"$1,937",25 hours 40 minutes,Two,"Seattle, Los Angeles","3 hours 30 minutes, 1 hour 50 minutes",2024-07-03
+United,2024-07-26,2024-08-03,6:00am,6:45pm,"$1,476",23 hours 45 minutes,One,San Francisco,6 hours 46 minutes,2024-07-03
+United,2024-07-26,2024-08-03,7:58pm,4:05am,"$1,536",19 hours 7 minutes,One,San Francisco,1 hour 58 minutes,2024-07-03
+Delta,2024-07-26,2024-08-03,7:54am,3:15pm,"$1,991",18 hours 21 minutes,One,Seattle,1 hour 33 minutes,2024-07-03
+United,2024-07-26,2024-08-03,6:00am,4:05am,"$1,718",33 hours 5 minutes,One,San Francisco,16 hours 1 minute,2024-07-03
+multipleAirlines,2024-07-26,2024-08-03,7:45pm,5:10am,"$2,119",20 hours 25 minutes,One,Seattle,4 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-26,2024-08-03,5:45pm,5:10am,"$2,119",22 hours 25 minutes,One,Seattle,6 hours 10 minutes,2024-07-03
+China Airlines,2024-07-26,2024-08-03,6:20am,9:20pm,"$2,007",26 hours 0 minutes,One,Los Angeles,9 hours 22 minutes,2024-07-03
+multipleAirlines,2024-07-26,2024-08-03,6:00am,5:00pm,"$2,348",22 hours 0 minutes,One,San Francisco,5 hours 16 minutes,2024-07-03
+multipleAirlines,2024-07-26,2024-08-03,7:58pm,5:15am,"$2,348",20 hours 17 minutes,One,San Francisco,3 hours 38 minutes,2024-07-03
+Delta,2024-07-26,2024-08-03,3:09pm,3:25pm,"$2,011",35 hours 16 minutes,One,Seattle,18 hours 30 minutes,2024-07-03
+multipleAirlines,2024-07-26,2024-08-03,7:58pm,4:50am,"$2,348",19 hours 52 minutes,One,San Francisco,3 hours 13 minutes,2024-07-03
+multipleAirlines,2024-07-26,2024-08-03,2:30pm,5:10am,"$2,119",25 hours 40 minutes,One,Seattle,9 hours 28 minutes,2024-07-03
+Delta,2024-07-26,2024-08-03,5:25am,3:15pm,"$1,991",20 hours 50 minutes,Two,"Salt Lake City, Seattle","1 hour 26 minutes, 1 hour 55 minutes",2024-07-03
+multipleAirlines,2024-07-26,2024-08-03,7:58pm,12:10pm,"$1,783",27 hours 12 minutes,Two,"San Francisco, Tokyo","3 hours 58 minutes, 5 hours 10 minutes",2024-07-03
+Turkish Airlines,2024-07-26,2024-08-03,8:40pm,5:55pm,"$2,309",32 hours 15 minutes,One,Istanbul,8 hours 55 minutes,2024-07-03
+United,2024-07-26,2024-08-03,7:58pm,6:45pm,"$2,235",33 hours 47 minutes,One,San Francisco,16 hours 43 minutes,2024-07-03
+multipleAirlines,2024-07-26,2024-08-03,3:59pm,5:10am,"$2,544",24 hours 11 minutes,One,Seattle,7 hours 59 minutes,2024-07-03
+multipleAirlines,2024-07-26,2024-08-03,9:00am,9:20pm,"$2,042",23 hours 20 minutes,Two,"Seattle, Los Angeles","0 hours 41 minutes, 2 hours 13 minutes",2024-07-03
+multipleAirlines,2024-07-26,2024-08-03,2:30pm,4:40am,"$1,884",25 hours 10 minutes,Two,"Seattle, San Francisco","2 hours 3 minutes, 3 hours 55 minutes",2024-07-03
+multipleAirlines,2024-07-26,2024-08-03,2:30pm,4:40am,"$1,884",25 hours 10 minutes,Two,"Seattle, San Francisco","3 hours 17 minutes, 2 hours 40 minutes",2024-07-03
+multipleAirlines,2024-07-26,2024-08-03,2:30pm,4:40am,"$1,884",25 hours 10 minutes,Two,"Seattle, San Francisco","1 hour 3 minutes, 4 hours 54 minutes",2024-07-03
+Japan Airlines,2024-07-26,2024-08-03,11:30am,11:35am,"$2,500",35 hours 5 minutes,One,Tokyo,18 hours 15 minutes,2024-07-03
+multipleAirlines,2024-07-26,2024-08-03,2:15pm,4:40am,"$1,911",25 hours 25 minutes,Two,"Portland, San Francisco","0 hours 46 minutes, 6 hours 0 minutes",2024-07-03
+multipleAirlines,2024-07-26,2024-08-03,2:15pm,4:40am,"$1,911",25 hours 25 minutes,Two,"Portland, San Francisco","3 hours 45 minutes, 3 hours 3 minutes",2024-07-03
+Cathay Pacific,2024-07-26,2024-08-03,9:17pm,9:00am,"$2,145",22 hours 43 minutes,Two,"San Francisco, Hong Kong","1 hour 58 minutes, 1 hour 0 minutes",2024-07-03
+United,2024-07-27,2024-08-04,7:58pm,4:05am,"$1,827",19 hours 7 minutes,One,San Francisco,1 hour 58 minutes,2024-07-03
+United,2024-07-27,2024-08-04,6:00am,6:45pm,"$1,827",23 hours 45 minutes,One,San Francisco,6 hours 46 minutes,2024-07-03
+Delta,2024-07-27,2024-08-04,7:54am,3:25pm,"$2,171",18 hours 31 minutes,One,Seattle,1 hour 43 minutes,2024-07-03
+United,2024-07-27,2024-08-04,6:00am,4:05am,"$1,839",33 hours 5 minutes,One,San Francisco,16 hours 1 minute,2024-07-03
+multipleAirlines,2024-07-27,2024-08-04,5:45pm,4:10am,"$2,263",21 hours 25 minutes,One,Seattle,5 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-27,2024-08-04,5:45pm,5:10am,"$2,263",22 hours 25 minutes,One,Seattle,6 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-27,2024-08-04,6:00am,5:00pm,"$2,489",22 hours 0 minutes,One,San Francisco,5 hours 16 minutes,2024-07-03
+Delta,2024-07-27,2024-08-04,5:25am,3:25pm,"$2,175",21 hours 0 minutes,Two,"Salt Lake City, Seattle","1 hour 26 minutes, 2 hours 5 minutes",2024-07-03
+Korean Air,2024-07-27,2024-08-04,12:10pm,12:10pm,"$2,284",35 hours 0 minutes,One,Seoul,17 hours 50 minutes,2024-07-03
+multipleAirlines,2024-07-27,2024-08-04,3:59pm,4:10am,"$2,263",23 hours 11 minutes,One,Seattle,6 hours 59 minutes,2024-07-03
+multipleAirlines,2024-07-27,2024-08-04,7:58pm,5:15am,"$2,489",20 hours 17 minutes,One,San Francisco,3 hours 38 minutes,2024-07-03
+multipleAirlines,2024-07-27,2024-08-04,12:53pm,4:10am,"$2,263",26 hours 17 minutes,One,Seattle,10 hours 8 minutes,2024-07-03
+multipleAirlines,2024-07-27,2024-08-04,3:59pm,5:10am,"$2,263",24 hours 11 minutes,One,Seattle,7 hours 59 minutes,2024-07-03
+multipleAirlines,2024-07-27,2024-08-04,12:53pm,5:10am,"$2,263",27 hours 17 minutes,One,Seattle,11 hours 8 minutes,2024-07-03
+multipleAirlines,2024-07-27,2024-08-04,7:58pm,4:50am,"$2,489",19 hours 52 minutes,One,San Francisco,3 hours 13 minutes,2024-07-03
+multipleAirlines,2024-07-27,2024-08-04,2:30pm,4:10am,"$2,263",24 hours 40 minutes,One,Seattle,8 hours 28 minutes,2024-07-03
+multipleAirlines,2024-07-27,2024-08-04,7:58pm,12:10pm,"$1,989",27 hours 12 minutes,Two,"San Francisco, Tokyo","3 hours 58 minutes, 5 hours 10 minutes",2024-07-03
+multipleAirlines,2024-07-27,2024-08-04,2:30pm,5:10am,"$2,263",25 hours 40 minutes,One,Seattle,9 hours 28 minutes,2024-07-03
+multipleAirlines,2024-07-27,2024-08-04,3:59pm,4:45am,"$2,119",23 hours 46 minutes,Two,"Seattle, San Francisco","1 hour 48 minutes, 2 hours 55 minutes",2024-07-03
+United,2024-07-27,2024-08-04,7:58pm,6:45pm,"$2,339",33 hours 47 minutes,One,San Francisco,16 hours 43 minutes,2024-07-03
+Turkish Airlines,2024-07-27,2024-08-04,8:40pm,5:55pm,"$2,435",32 hours 15 minutes,One,Istanbul,8 hours 55 minutes,2024-07-03
+multipleAirlines,2024-07-27,2024-08-04,3:59pm,4:40am,"$2,152",23 hours 41 minutes,Two,"Seattle, San Francisco","1 hour 48 minutes, 2 hours 40 minutes",2024-07-03
+multipleAirlines,2024-07-27,2024-08-04,2:30pm,4:40am,"$2,125",25 hours 10 minutes,Two,"Seattle, San Francisco","1 hour 3 minutes, 4 hours 54 minutes",2024-07-03
+multipleAirlines,2024-07-27,2024-08-04,2:30pm,4:40am,"$2,125",25 hours 10 minutes,Two,"Seattle, San Francisco","3 hours 17 minutes, 2 hours 40 minutes",2024-07-03
+Japan Airlines,2024-07-27,2024-08-04,10:45am,8:55pm,"$2,493",21 hours 10 minutes,Two,"San Diego, Tokyo","1 hour 44 minutes, 1 hour 25 minutes",2024-07-03
+United,2024-07-28,2024-08-05,7:58pm,4:05am,"$1,482",19 hours 7 minutes,One,San Francisco,1 hour 58 minutes,2024-07-03
+United,2024-07-28,2024-08-05,6:00am,6:45pm,"$1,482",23 hours 45 minutes,One,San Francisco,6 hours 46 minutes,2024-07-03
+United,2024-07-28,2024-08-05,7:58pm,6:45pm,"$1,455",33 hours 47 minutes,One,San Francisco,16 hours 43 minutes,2024-07-03
+Delta,2024-07-28,2024-08-05,7:54am,3:30pm,"$2,035",18 hours 36 minutes,One,Seattle,1 hour 48 minutes,2024-07-03
+multipleAirlines,2024-07-28,2024-08-05,6:00am,5:00pm,"$1,997",22 hours 0 minutes,One,San Francisco,5 hours 16 minutes,2024-07-03
+Japan Airlines,2024-07-28,2024-08-05,11:30am,8:50pm,"$2,173",20 hours 20 minutes,One,Tokyo,3 hours 40 minutes,2024-07-03
+multipleAirlines,2024-07-28,2024-08-05,7:45pm,5:10am,"$2,047",20 hours 25 minutes,One,Seattle,4 hours 10 minutes,2024-07-03
+United,2024-07-28,2024-08-05,6:00am,4:05am,"$1,789",33 hours 5 minutes,One,San Francisco,16 hours 1 minute,2024-07-03
+multipleAirlines,2024-07-28,2024-08-05,5:45pm,5:10am,"$2,047",22 hours 25 minutes,One,Seattle,6 hours 10 minutes,2024-07-03
+Korean Air,2024-07-28,2024-08-05,12:10pm,12:10pm,"$2,085",35 hours 0 minutes,One,Seoul,17 hours 50 minutes,2024-07-03
+China Airlines,2024-07-28,2024-08-05,6:20am,9:20pm,"$2,031",26 hours 0 minutes,One,Los Angeles,9 hours 22 minutes,2024-07-03
+China Airlines,2024-07-28,2024-08-05,6:20am,9:20pm,"$2,049",26 hours 0 minutes,One,Los Angeles,9 hours 22 minutes,2024-07-03
+multipleAirlines,2024-07-28,2024-08-05,3:59pm,5:10am,"$2,047",24 hours 11 minutes,One,Seattle,7 hours 59 minutes,2024-07-03
+Delta,2024-07-28,2024-08-05,3:09pm,3:20pm,"$2,013",35 hours 11 minutes,One,Seattle,18 hours 25 minutes,2024-07-03
+multipleAirlines,2024-07-28,2024-08-05,2:30pm,5:10am,"$2,047",25 hours 40 minutes,One,Seattle,9 hours 28 minutes,2024-07-03
+Delta,2024-07-28,2024-08-05,12:10pm,12:10pm,"$2,119",35 hours 0 minutes,One,Seoul,17 hours 50 minutes,2024-07-03
+Japan Airlines,2024-07-28,2024-08-05,11:30am,11:35am,"$2,173",35 hours 5 minutes,One,Tokyo,18 hours 15 minutes,2024-07-03
+Japan Airlines,2024-07-28,2024-08-05,12:25pm,11:35am,"$2,253",34 hours 10 minutes,One,Tokyo,17 hours 0 minutes,2024-07-03
+Japan Airlines,2024-07-28,2024-08-05,12:25pm,8:50pm,"$2,743",19 hours 25 minutes,One,Tokyo,2 hours 25 minutes,2024-07-03
+Turkish Airlines,2024-07-28,2024-08-05,8:40pm,5:55pm,"$2,196",32 hours 15 minutes,One,Istanbul,8 hours 55 minutes,2024-07-03
+China Airlines,2024-07-28,2024-08-05,6:20am,5:10am,"$2,060",33 hours 50 minutes,One,Los Angeles,17 hours 12 minutes,2024-07-03
+Japan Airlines,2024-07-28,2024-08-05,12:00pm,8:55pm,"$2,745",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-28,2024-08-05,7:58pm,11:30am,"$1,789",26 hours 32 minutes,Two,"San Francisco, Seoul","1 hour 43 minutes, 6 hours 0 minutes",2024-07-03
+Korean Air,2024-07-28,2024-08-05,6:40am,5:50pm,"$2,091",22 hours 10 minutes,Two,"Minneapolis, Seoul","2 hours 21 minutes, 0 hours 50 minutes",2024-07-03
+Cathay Pacific,2024-07-28,2024-08-05,8:45pm,9:55am,"$2,050",24 hours 10 minutes,Two,"Los Angeles, Hong Kong","3 hours 25 minutes, 1 hour 15 minutes",2024-07-03
+United,2024-07-29,2024-08-06,7:58pm,4:05am,"$1,524",19 hours 7 minutes,One,San Francisco,1 hour 58 minutes,2024-07-03
+United,2024-07-29,2024-08-06,6:00am,6:45pm,"$1,524",23 hours 45 minutes,One,San Francisco,6 hours 50 minutes,2024-07-03
+United,2024-07-29,2024-08-06,6:00am,4:05am,"$1,535",33 hours 5 minutes,One,San Francisco,16 hours 5 minutes,2024-07-03
+Delta,2024-07-29,2024-08-06,7:54am,3:20pm,"$2,027",18 hours 26 minutes,One,Seattle,1 hour 38 minutes,2024-07-03
+multipleAirlines,2024-07-29,2024-08-06,7:45pm,5:10am,"$1,917",20 hours 25 minutes,One,Seattle,4 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-29,2024-08-06,6:00am,5:00pm,"$2,057",22 hours 0 minutes,One,San Francisco,5 hours 20 minutes,2024-07-03
+multipleAirlines,2024-07-29,2024-08-06,7:58pm,5:15am,"$2,057",20 hours 17 minutes,One,San Francisco,3 hours 38 minutes,2024-07-03
+multipleAirlines,2024-07-29,2024-08-06,5:45pm,5:10am,"$1,917",22 hours 25 minutes,One,Seattle,6 hours 10 minutes,2024-07-03
+Japan Airlines,2024-07-29,2024-08-06,11:30am,8:50pm,"$2,293",20 hours 20 minutes,One,Tokyo,3 hours 40 minutes,2024-07-03
+multipleAirlines,2024-07-29,2024-08-06,7:58pm,4:50am,"$2,057",19 hours 52 minutes,One,San Francisco,3 hours 13 minutes,2024-07-03
+multipleAirlines,2024-07-29,2024-08-06,3:59pm,5:10am,"$1,917",24 hours 11 minutes,One,Seattle,7 hours 59 minutes,2024-07-03
+multipleAirlines,2024-07-29,2024-08-06,2:30pm,5:10am,"$1,917",25 hours 40 minutes,One,Seattle,9 hours 28 minutes,2024-07-03
+Delta,2024-07-29,2024-08-06,3:09pm,3:15pm,"$2,046",35 hours 6 minutes,One,Seattle,18 hours 20 minutes,2024-07-03
+Japan Airlines,2024-07-29,2024-08-06,11:30am,11:35am,"$2,183",35 hours 5 minutes,One,Tokyo,18 hours 15 minutes,2024-07-03
+Japan Airlines,2024-07-29,2024-08-06,12:25pm,11:35am,"$2,263",34 hours 10 minutes,One,Tokyo,17 hours 0 minutes,2024-07-03
+Korean Air,2024-07-29,2024-08-06,12:10pm,5:50pm,"$2,135",40 hours 40 minutes,One,Seoul,23 hours 30 minutes,2024-07-03
+Japan Airlines,2024-07-29,2024-08-06,12:25pm,8:50pm,"$2,713",19 hours 25 minutes,One,Tokyo,2 hours 25 minutes,2024-07-03
+United,2024-07-29,2024-08-06,7:58pm,6:45pm,"$2,129",33 hours 47 minutes,One,San Francisco,16 hours 43 minutes,2024-07-03
+Japan Airlines,2024-07-29,2024-08-06,12:00pm,8:55pm,"$2,715",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+Japan Airlines,2024-07-29,2024-08-06,12:00pm,2:30pm,"$2,273",37 hours 30 minutes,One,Tokyo,20 hours 45 minutes,2024-07-03
+Turkish Airlines,2024-07-29,2024-08-06,8:40pm,5:55pm,"$2,206",32 hours 15 minutes,One,Istanbul,8 hours 55 minutes,2024-07-03
+Japan Airlines,2024-07-29,2024-08-06,12:25pm,8:50pm,"$2,962",19 hours 25 minutes,One,Tokyo,2 hours 25 minutes,2024-07-03
+Japan Airlines,2024-07-29,2024-08-06,12:00pm,8:55pm,"$2,964",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-29,2024-08-06,2:30pm,4:40am,"$1,936",25 hours 10 minutes,Two,"Seattle, San Francisco","2 hours 3 minutes, 3 hours 55 minutes",2024-07-03
+multipleAirlines,2024-07-29,2024-08-06,2:30pm,4:40am,"$1,936",25 hours 10 minutes,Two,"Seattle, San Francisco","1 hour 3 minutes, 4 hours 54 minutes",2024-07-03
+multipleAirlines,2024-07-30,2024-08-07,7:45pm,4:10am,"$1,647",19 hours 25 minutes,One,Seattle,3 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-30,2024-08-07,5:45pm,4:10am,"$1,647",21 hours 25 minutes,One,Seattle,5 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-30,2024-08-07,3:59pm,4:10am,"$1,647",23 hours 11 minutes,One,Seattle,6 hours 59 minutes,2024-07-03
+United,2024-07-30,2024-08-07,7:58pm,4:05am,"$1,741",19 hours 7 minutes,One,San Francisco,1 hour 58 minutes,2024-07-03
+United,2024-07-30,2024-08-07,6:00am,6:45pm,"$1,741",23 hours 45 minutes,One,San Francisco,6 hours 46 minutes,2024-07-03
+multipleAirlines,2024-07-30,2024-08-07,12:53pm,4:10am,"$1,647",26 hours 17 minutes,One,Seattle,10 hours 8 minutes,2024-07-03
+multipleAirlines,2024-07-30,2024-08-07,6:00am,5:00pm,"$1,862",22 hours 0 minutes,One,San Francisco,5 hours 16 minutes,2024-07-03
+multipleAirlines,2024-07-30,2024-08-07,2:30pm,4:10am,"$1,647",24 hours 40 minutes,One,Seattle,8 hours 28 minutes,2024-07-03
+multipleAirlines,2024-07-30,2024-08-07,7:45pm,5:10am,"$1,852",20 hours 25 minutes,One,Seattle,4 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-30,2024-08-07,7:58pm,4:50am,"$1,862",19 hours 52 minutes,One,San Francisco,3 hours 13 minutes,2024-07-03
+multipleAirlines,2024-07-30,2024-08-07,7:58pm,5:15am,"$1,862",20 hours 17 minutes,One,San Francisco,3 hours 38 minutes,2024-07-03
+Delta,2024-07-30,2024-08-07,7:54am,3:15pm,"$2,076",18 hours 21 minutes,One,Seattle,1 hour 33 minutes,2024-07-03
+multipleAirlines,2024-07-30,2024-08-07,5:45pm,5:10am,"$1,852",22 hours 25 minutes,One,Seattle,6 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-30,2024-08-07,3:59pm,5:10am,"$1,852",24 hours 11 minutes,One,Seattle,7 hours 59 minutes,2024-07-03
+multipleAirlines,2024-07-30,2024-08-07,2:30pm,5:10am,"$1,852",25 hours 40 minutes,One,Seattle,9 hours 28 minutes,2024-07-03
+Japan Airlines,2024-07-30,2024-08-07,11:30am,8:50pm,"$2,293",20 hours 20 minutes,One,Tokyo,3 hours 40 minutes,2024-07-03
+Japan Airlines,2024-07-30,2024-08-07,12:00pm,8:55pm,"$2,375",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+Japan Airlines,2024-07-30,2024-08-07,12:25pm,8:50pm,"$2,413",19 hours 25 minutes,One,Tokyo,2 hours 25 minutes,2024-07-03
+Asiana Airlines,2024-07-30,2024-08-07,7:58pm,11:30am,"$1,781",26 hours 32 minutes,Two,"San Francisco, Seoul","1 hour 43 minutes, 6 hours 0 minutes",2024-07-03
+United,2024-07-30,2024-08-07,6:00am,4:05am,"$1,886",33 hours 5 minutes,One,San Francisco,16 hours 1 minute,2024-07-03
+Japan Airlines,2024-07-30,2024-08-07,11:30am,11:35am,"$2,183",35 hours 5 minutes,One,Tokyo,18 hours 15 minutes,2024-07-03
+Korean Air,2024-07-30,2024-08-07,12:10pm,5:50pm,"$2,055",40 hours 40 minutes,One,Seoul,23 hours 30 minutes,2024-07-03
+Delta,2024-07-30,2024-08-07,3:09pm,3:20pm,"$2,095",35 hours 11 minutes,One,Seattle,18 hours 25 minutes,2024-07-03
+Delta,2024-07-30,2024-08-07,5:25am,3:15pm,"$2,076",20 hours 50 minutes,Two,"Salt Lake City, Seattle","1 hour 26 minutes, 1 hour 55 minutes",2024-07-03
+Japan Airlines,2024-07-30,2024-08-07,12:25pm,11:35am,"$2,263",34 hours 10 minutes,One,Tokyo,17 hours 0 minutes,2024-07-03
+United,2024-07-31,2024-08-08,7:58pm,4:05am,"$1,420",19 hours 7 minutes,One,San Francisco,1 hour 58 minutes,2024-07-03
+United,2024-07-31,2024-08-08,6:00am,6:45pm,"$1,420",23 hours 45 minutes,One,San Francisco,6 hours 46 minutes,2024-07-03
+United,2024-07-31,2024-08-08,6:00am,4:05am,"$1,431",33 hours 5 minutes,One,San Francisco,16 hours 1 minute,2024-07-03
+Delta,2024-07-31,2024-08-08,7:54am,3:20pm,"$1,979",18 hours 26 minutes,One,Seattle,1 hour 38 minutes,2024-07-03
+multipleAirlines,2024-07-31,2024-08-08,7:45pm,5:10am,"$1,922",20 hours 25 minutes,One,Seattle,4 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-31,2024-08-08,6:00am,5:00pm,"$1,982",22 hours 0 minutes,One,San Francisco,5 hours 16 minutes,2024-07-03
+multipleAirlines,2024-07-31,2024-08-08,5:45pm,5:10am,"$1,922",22 hours 25 minutes,One,Seattle,6 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-31,2024-08-08,7:58pm,5:15am,"$2,117",20 hours 17 minutes,One,San Francisco,3 hours 38 minutes,2024-07-03
+multipleAirlines,2024-07-31,2024-08-08,7:58pm,4:50am,"$2,117",19 hours 52 minutes,One,San Francisco,3 hours 13 minutes,2024-07-03
+Korean Air,2024-07-31,2024-08-08,12:10pm,12:10pm,"$2,030",35 hours 0 minutes,One,Seoul,17 hours 50 minutes,2024-07-03
+Japan Airlines,2024-07-31,2024-08-08,12:25pm,8:50pm,"$2,388",19 hours 25 minutes,One,Tokyo,2 hours 25 minutes,2024-07-03
+Japan Airlines,2024-07-31,2024-08-08,12:00pm,8:55pm,"$2,390",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+Korean Air,2024-07-31,2024-08-08,12:10pm,10:30pm,"$2,519",21 hours 20 minutes,One,Seoul,4 hours 10 minutes,2024-07-03
+Korean Air,2024-07-31,2024-08-08,7:00am,5:50pm,"$2,036",21 hours 50 minutes,Two,"Minneapolis, Seoul","2 hours 5 minutes, 0 hours 50 minutes",2024-07-03
+Turkish Airlines,2024-07-31,2024-08-08,8:40pm,5:55pm,"$2,181",32 hours 15 minutes,One,Istanbul,8 hours 55 minutes,2024-07-03
+Delta,2024-07-31,2024-08-08,7:00am,5:50pm,"$2,067",21 hours 50 minutes,Two,"Minneapolis, Seoul","2 hours 5 minutes, 0 hours 50 minutes",2024-07-03
+multipleAirlines,2024-07-31,2024-08-08,3:59pm,5:10am,"$2,340",24 hours 11 minutes,One,Seattle,7 hours 59 minutes,2024-07-03
+Korean Air,2024-07-31,2024-08-08,10:30am,10:30pm,"$2,519",23 hours 0 minutes,One,Seoul,5 hours 35 minutes,2024-07-03
+multipleAirlines,2024-07-31,2024-08-08,2:30pm,5:10am,"$2,340",25 hours 40 minutes,One,Seattle,9 hours 28 minutes,2024-07-03
+Japan Airlines,2024-07-31,2024-08-08,11:30am,8:50pm,"$2,855",20 hours 20 minutes,One,Tokyo,3 hours 40 minutes,2024-07-03
+Korean Air,2024-07-31,2024-08-08,12:10pm,10:30pm,"$2,817",21 hours 20 minutes,One,Seoul,4 hours 10 minutes,2024-07-03
+Japan Airlines,2024-07-31,2024-08-08,12:25pm,8:50pm,"$3,060",19 hours 25 minutes,One,Tokyo,2 hours 25 minutes,2024-07-03
+Japan Airlines,2024-07-31,2024-08-08,12:00pm,8:55pm,"$3,062",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+multipleAirlines,2024-07-31,2024-08-08,9:00am,9:20pm,"$2,029",23 hours 20 minutes,Two,"Seattle, Los Angeles","0 hours 41 minutes, 2 hours 13 minutes",2024-07-03
+multipleAirlines,2024-07-31,2024-08-08,8:45pm,9:00am,"$2,086",23 hours 15 minutes,Two,"Vancouver, Hong Kong","2 hours 25 minutes, 1 hour 25 minutes",2024-07-03
+United,2024-08-01,2024-08-09,6:00am,6:45pm,"$1,367",23 hours 45 minutes,One,San Francisco,6 hours 46 minutes,2024-07-03
+United,2024-08-01,2024-08-09,7:58pm,4:05am,"$1,480",19 hours 7 minutes,One,San Francisco,1 hour 58 minutes,2024-07-03
+United,2024-08-01,2024-08-09,6:00am,4:05am,"$1,357",33 hours 5 minutes,One,San Francisco,16 hours 1 minute,2024-07-03
+multipleAirlines,2024-08-01,2024-08-09,6:00am,5:00pm,"$1,932",22 hours 0 minutes,One,San Francisco,5 hours 16 minutes,2024-07-03
+Korean Air,2024-08-01,2024-08-09,10:30am,12:10pm,"$1,711",36 hours 40 minutes,One,Seoul,19 hours 15 minutes,2024-07-03
+Japan Airlines,2024-08-01,2024-08-09,12:00pm,2:30pm,"$1,819",37 hours 30 minutes,One,Tokyo,20 hours 45 minutes,2024-07-03
+Japan Airlines,2024-08-01,2024-08-09,12:00pm,8:55pm,"$2,185",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+multipleAirlines,2024-08-01,2024-08-09,7:45pm,5:10am,"$2,102",20 hours 25 minutes,One,Seattle,4 hours 10 minutes,2024-07-03
+multipleAirlines,2024-08-01,2024-08-09,5:45pm,5:10am,"$2,102",22 hours 25 minutes,One,Seattle,6 hours 10 minutes,2024-07-03
+Korean Air,2024-08-01,2024-08-09,10:30am,12:10pm,"$1,961",36 hours 40 minutes,One,Seoul,19 hours 15 minutes,2024-07-03
+Japan Airlines,2024-08-01,2024-08-09,12:00pm,8:55pm,"$2,335",19 hours 55 minutes,One,Tokyo,3 hours 10 minutes,2024-07-03
+multipleAirlines,2024-08-01,2024-08-09,3:59pm,5:10am,"$2,102",24 hours 11 minutes,One,Seattle,7 hours 59 minutes,2024-07-03
+Japan Airlines,2024-08-01,2024-08-09,12:00pm,2:30pm,"$2,037",37 hours 30 minutes,One,Tokyo,20 hours 45 minutes,2024-07-03
+multipleAirlines,2024-08-01,2024-08-09,2:30pm,5:10am,"$2,102",25 hours 40 minutes,One,Seattle,9 hours 28 minutes,2024-07-03
+Delta,2024-08-01,2024-08-09,5:25am,3:30pm,"$2,018",21 hours 5 minutes,Two,"Salt Lake City, Seattle","1 hour 26 minutes, 2 hours 5 minutes",2024-07-03
+Japan Airlines,2024-08-01,2024-08-09,12:25pm,8:50pm,"$2,796",19 hours 25 minutes,One,Tokyo,2 hours 25 minutes,2024-07-03
+China Airlines,2024-08-01,2024-08-09,6:20am,5:10am,"$2,075",33 hours 50 minutes,One,Los Angeles,17 hours 12 minutes,2024-07-03
+Japan Airlines,2024-08-01,2024-08-09,12:25pm,8:50pm,"$2,986",19 hours 25 minutes,One,Tokyo,2 hours 25 minutes,2024-07-03
+Delta,2024-08-01,2024-08-09,7:00am,5:50pm,"$2,234",21 hours 50 minutes,Two,"Minneapolis, Seoul","2 hours 0 minutes, 0 hours 50 minutes",2024-07-03
+multipleAirlines,2024-08-01,2024-08-09,7:00am,5:50pm,"$2,235",21 hours 50 minutes,Two,"Minneapolis, Seoul","2 hours 0 minutes, 0 hours 50 minutes",2024-07-03
+multipleAirlines,2024-08-01,2024-08-09,9:15am,8:50pm,"$2,108",22 hours 35 minutes,Two,"Los Angeles, Tokyo","3 hours 50 minutes, 0 hours 55 minutes",2024-07-03
+multipleAirlines,2024-08-01,2024-08-09,9:15am,8:55pm,"$2,110",22 hours 40 minutes,Two,"Los Angeles, Tokyo","3 hours 15 minutes, 1 hour 30 minutes",2024-07-03
+multipleAirlines,2024-08-01,2024-08-09,2:30pm,4:40am,"$1,874",25 hours 10 minutes,Two,"Seattle, San Francisco","3 hours 17 minutes, 2 hours 40 minutes",2024-07-03
+multipleAirlines,2024-08-01,2024-08-09,2:30pm,4:40am,"$1,874",25 hours 10 minutes,Two,"Seattle, San Francisco","2 hours 3 minutes, 3 hours 55 minutes",2024-07-03
+multipleAirlines,2024-08-01,2024-08-09,2:30pm,4:40am,"$1,874",25 hours 10 minutes,Two,"Seattle, San Francisco","1 hour 3 minutes, 4 hours 54 minutes",2024-07-03
